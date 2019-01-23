@@ -14,8 +14,8 @@ Research Interests
 ======
 - **Machine learning**:
   - Bayesian matrix and tensor factorization
-  - Variational auto-encoder (VAE)
-  - Generative adversarial network (GAN)
+  - Variational auto-encoder
+  - Generative adversarial network
 - **Urban traffic data analytics**:
   - Missing data imputation
   - Spatio-temporal time series prediction
@@ -30,6 +30,6 @@ Selected Publications
 
 Open Sources
 =======
-- [Urban traffic speed data set](https://zenodo.org/record/1205229): This is our open project for transportation data imputation which covers the missing data imputation and spatio-temporal short-term (or long-term) traffic forecasting using a variety of machine learning and deep learning models.
+- [Urban traffic speed data set](https://zenodo.org/record/1205229): This is our open traffic speed data set, which consists of 214 anonymous road segments within two months at 10-minute interval, and the speed observations were collected in Guangzhou, China.
 
 - [transdim](https://github.com/xinychen/transdim): This is our open project for transportation data imputation which covers the missing data imputation and spatio-temporal short-term (or long-term) traffic forecasting using a variety of machine learning and deep learning models.
