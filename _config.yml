@@ -14,7 +14,7 @@ description              : &description "Master student"
 description              : &description "Sun Yat-Sen University"
 url                      : https://xinyuchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xinyuchen/academicpages.github.io"
+repository               : "xinychen/xinychen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
