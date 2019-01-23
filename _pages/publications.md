@@ -16,6 +16,10 @@ Journal Publications
 
 - Zhaocheng He, Kaiying Chen, *Xinyu Chen* (2018). A collaborative method for route discovery using taxi drivers' experience and preferences. *IEEE Transactions on Intelligent Transportation Systems*, 19(8): 2505-2514. [[doi](http://doi.org/10.1109/TITS.2017.2753468)]
 
+Top AI conference
+------
+- *Xinyu Chen*, Lijun Sun (2019). Bayesian temporal factorization for spatiotemporal time series prediction with missing values. [[Guangzhou data set](http://doi.org/10.5281/zenodo.1205229)] [[Birmingham data set](https://archive.ics.uci.edu/ml/datasets/Parking+Birmingham)] [[NYC taxi data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)] [[BTMF code](https://github.com/lijunsun/btmf)] [[BTTF code](https://github.com/lijunsun/bttf)] [*in preparation*]
+
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
