@@ -1,15 +1,11 @@
 ---
 permalink: /stuff/
-#title: "杂货铺"
+title: "Interesting things!"
 author_profile: true
 redirect_from:
   - /md/
   - /stuff.html
 ---
-
-Contents
-------
-- [Awesome videos](#awesome-videos)
 
 Awesome videos
 =======
