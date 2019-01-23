@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xinyu Chen"
 title_separator          : "-"
-name                     : &name "Xinyu Chen"
+name                     : &name "Xinyu Chen (陈新宇)"
 description              : &description "Master student"
 description              : &description "Sun Yat-Sen University"
 url                      : https://xinychen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
