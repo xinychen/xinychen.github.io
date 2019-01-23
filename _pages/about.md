@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in the Research Center of Intelligent Transportation System at Sun Yat-Sen University. My research interests are machine learning and urban traffic data analytics. During my master research, I focused on spatio-temporal (multivariate and multidimensional) time series imputation and prediction, and the related papers have been published in the journal of *Transportation Research Part C: Emerging Technologies*.
+I am a master student in the Research Center of Intelligent Transportation System at Sun Yat-Sen University. My research interests are machine learning and urban traffic data analytics. During my master research, I focused on spatio-temporal (multivariate and multidimensional) time series imputation and prediction, and the related papers have been published in the *Transportation Research Part C: Emerging Technologies*.
 
 Research Interests
 ======
@@ -24,6 +24,10 @@ Research Interests
 
 Selected Publications
 ======
+
+- *Xinyu Chen*, Zhaocheng He, Yixian Chen, Yuhuan Lu (2019). Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model. *Transportation Research Part C: Emerging Technologies*. [[data](http://doi.org/10.5281/zenodo.1205229)] [[Matlab code](https://github.com/sysuits/BATF)] [*under review*]
+
+
 - *Xinyu Chen*, Zhaocheng He, Lijun Sun (2019). A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation. *Transportation Research Part C: Emerging Technologies*, 98: 73-84. [[preprint](https://www.researchgate.net/publication/329177786_A_Bayesian_tensor_decomposition_approach_for_spatiotemporal_traffic_data_imputation)] [[doi](https://doi.org/10.1016/j.trc.2018.11.003)] [[data](http://doi.org/10.5281/zenodo.1205229)] [[Matlab code](https://github.com/lijunsun/bgcp_imputation)] [[Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/transdim/blob/master/BGCP_example.ipynb)]
 
 - *Xinyu Chen*, Zhaocheng He, Jiawei Wang (2018). Spatial-temporal traffic speed patterns discovery and incomplete data recovery via SVD-combined tensor decomposition. *Transportation Research Part C: Emerging Technologies*, 86: 59-77. [[doi](http://doi.org/10.1016/j.trc.2017.10.023)] [[data](http://doi.org/10.5281/zenodo.1205229)]
