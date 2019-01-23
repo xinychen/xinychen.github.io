@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /stuff/
 title: "杂货铺"
 author_profile: true
 redirect_from:
   - /md/
-  - /markdown.html
+  - /stuff.html
 ---
 
 Awesome YouTube video
