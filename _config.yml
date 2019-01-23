@@ -83,7 +83,9 @@ analytics:
 author:
   name             : "Xinyu Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : |
+    Master student, <br>
+    Sun Yat-Sen University <br>
   location         : "Guangzhou, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=mCrW04wAAAAJ&hl=en"
