@@ -3,17 +3,26 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a master student in the Research Center of Intelligent Transportation System at Sun Yat-Sen University. My research interests are machine learning and urban traffic data analytics. During my master research, I focused on spatio-temporal multivariate and multidimensional time series data imputation and prediction, and the related papers have been published in Transportation Research Part C: Emerging Technologies.
+I am a master student in the Research Center of Intelligent Transportation System at Sun Yat-Sen University. My research interests are machine learning and urban traffic data analytics. During my master research, I focused on spatio-temporal (multivariate and multidimensional) time series imputation and prediction, and the related papers have been published in Transportation Research Part C: Emerging Technologies.
 
 Research Interests
 ======
-* Data-driven machine learning models for transportation system
-* Understanding human mobility with individual trip data
+- **Machine learning**:
+  - Matrix/tensor factorization
+  - Bayesian inference methods
+  - Variational auto-encoder (VAE)
+  - Generative adversarial network (GAN)
+  - Bayesian neural network
+- **Urban traffic data analytics**:
+  - Missing data imputation
+  - Spatio-temporal time series prediction
+  - Anomaly detection
+  - Individual trip patterns discovery
 
 Selected Publications
 ======
