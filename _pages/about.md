@@ -13,11 +13,9 @@ I am a master student in the Research Center of Intelligent Transportation Syste
 Research Interests
 ======
 - **Machine learning**:
-  - Matrix/tensor factorization
-  - Bayesian inference methods
+  - Bayesian matrix and tensor factorization
   - Variational auto-encoder (VAE)
   - Generative adversarial network (GAN)
-  - Bayesian neural network
 - **Urban traffic data analytics**:
   - Missing data imputation
   - Spatio-temporal time series prediction
