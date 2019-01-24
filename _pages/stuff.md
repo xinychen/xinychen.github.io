@@ -7,15 +7,19 @@ redirect_from:
   - /stuff.html
 ---
 
-- [Prophet: Forecasting at scale](https://facebook.github.io/prophet/). Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
+- [**Prophet - Forecasting at scale**](https://facebook.github.io/prophet/):
 
-- [A Guide to Time Series Forecasting with Prophet in Python 3](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-prophet-in-python-3).
+  - Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
 
-- [Time Series Analysis and Forecasting with Prophet¶](https://www.kaggle.com/elenapetrova/time-series-analysis-and-forecasts-with-prophet).
+  - [A Guide to Time Series Forecasting with Prophet in Python 3](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-prophet-in-python-3).
 
-- [Flight Delays Prediction - Kaggle](https://www.kaggle.com/c/flight-delays-prediction).
+  - [Time Series Analysis and Forecasting with Prophet](https://www.kaggle.com/elenapetrova/time-series-analysis-and-forecasts-with-prophet).
 
-- Fabien Daniel. [Predicting flight delays](https://www.kaggle.com/fabiendaniel/predicting-flight-delays-tutorial), September 2017.
+- **Open challenge: Flight delays prediction**:
+
+  - [Flight Delays Prediction - Kaggle](https://www.kaggle.com/c/flight-delays-prediction).
+
+  - Fabien Daniel. [Predicting flight delays](https://www.kaggle.com/fabiendaniel/predicting-flight-delays-tutorial), September 2017.
 
 Awesome videos
 =======
