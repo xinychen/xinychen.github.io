@@ -7,12 +7,9 @@ redirect_from:
   - /stuff.html
 ---
 
-Interesting data
-======
+- [Flight Delays Prediction - Kaggle](https://www.kaggle.com/c/flight-delays-prediction).
+
 - Fabien Daniel. [Predicting flight delays](https://www.kaggle.com/fabiendaniel/predicting-flight-delays-tutorial), September 2017.
-
-  > In this notebook, I develop a model aimed at predicting flight delays at take-off. The purpose is not to obtain the best possible prediction but rather to emphasize on the various steps needed to build such a model.
-
 
 Awesome videos
 =======
