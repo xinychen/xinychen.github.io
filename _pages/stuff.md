@@ -16,6 +16,8 @@ redirect_from:
   - A Guide to Time Series Forecasting with Prophet in Python 3. [[link](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-prophet-in-python-3)]
   - Time Series Analysis and Forecasting with Prophet. [[link](https://www.kaggle.com/elenapetrova/time-series-analysis-and-forecasts-with-prophet)]
 
+- **Impyute** - Impyute is a library of missing data imputation algorithms written in Python 3. [[PyPI](https://pypi.org/project/impyute/)] [[GitHub](https://github.com/eltonlaw/impyute)]
+
 - **Open challenge: Flight delays prediction!**
 
   - Flight Delays Prediction - Kaggle. [[link](https://www.kaggle.com/c/flight-delays-prediction)]
