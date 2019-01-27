@@ -18,6 +18,8 @@ redirect_from:
 
 - **Impyute** - Impyute is a library of missing data imputation algorithms written in Python 3. [[PyPI](https://pypi.org/project/impyute/)] [[GitHub](https://github.com/eltonlaw/impyute)]
 
+- **missingpy** - This is a library for missing data imputation in Python. [[PyPI](https://pypi.org/project/missingpy/)] [[GitHub](https://github.com/epsilon-machine/missingpy)]
+
 - **Open challenge: Flight delays prediction!**
 
   - Flight Delays Prediction - Kaggle. [[link](https://www.kaggle.com/c/flight-delays-prediction)]
