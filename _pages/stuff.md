@@ -7,15 +7,15 @@ redirect_from:
   - /stuff.html
 ---
 
-- **Online tools**:
-  - *colab - Google*: Support Jupyter notebook. [[link](https://colab.research.google.com/)]
-  - *oveleaf*: An online LaTeX system. [[link](https://www.overleaf.com)]
+- **Online tools**: [[colab - Google](https://colab.research.google.com/)] [[overleaf.com](https://www.overleaf.com)]
 
 - **Prophet (Forecasting at scale)** - Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. [[facebook](https://facebook.github.io/prophet/)] [[Guide example](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-prophet-in-python-3)] [[Analysis example](https://www.kaggle.com/elenapetrova/time-series-analysis-and-forecasts-with-prophet)]
 
 - **fancyimpute** - Multivariate imputation and matrix completion algorithms implemented in Python. [[GitHub](https://github.com/iskandr/fancyimpute)]
 
 - **MIDAS** - Multiple imputation utilising denoising autoencoder for approximate Bayesian inference. [[news](https://statmodeling.stat.columbia.edu/2018/01/10/python-program-multivariate-missing-data-imputation-works-large-datasets/)] [[GitHub](https://github.com/Oracen/MIDAS)]
+
+- **RIDDLE** - Race and ethnicity Imputation from Disease history with Deep LEarning. [[GitHub](https://github.com/jisungk/RIDDLE)] [[Homepage](https://riddle.ai/)]
 
 - **Impyute** - Impyute is a library of missing data imputation algorithms written in Python 3. [[PyPI](https://pypi.org/project/impyute/)] [[GitHub](https://github.com/eltonlaw/impyute)] [[Documentation](https://media.readthedocs.org/pdf/impyute/latest/impyute.pdf)]
 
