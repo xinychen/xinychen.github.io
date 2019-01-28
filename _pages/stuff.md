@@ -23,11 +23,8 @@ redirect_from:
 
 - **missingno** - Missing data visualization module for Python. [[GitHub](https://github.com/ResidentMario/missingno)]
 
-- **Open challenge: Flight delays prediction!**
+- **Open challenge: Flight delays prediction!** [[Kaggle](https://www.kaggle.com/c/flight-delays-prediction)] [[blog post](https://www.kaggle.com/fabiendaniel/predicting-flight-delays-tutorial)]
 
-  - Flight Delays Prediction - Kaggle. [[link](https://www.kaggle.com/c/flight-delays-prediction)]
-
-  - Fabien Daniel. Predicting flight delays, September 2017. [[link](https://www.kaggle.com/fabiendaniel/predicting-flight-delays-tutorial)]
 
 Awesome videos
 =======
