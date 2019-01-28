@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me (陈新宇)"
+excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
