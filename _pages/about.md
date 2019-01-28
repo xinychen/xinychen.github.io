@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "About me (陈新宇)"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a master student in the Research Center of Intelligent Transportation System at Sun Yat-Sen University. My research interests are machine learning and urban traffic data analytics. During my master research, I focused on spatio-temporal (multivariate and multidimensional) time series imputation and prediction, and the related papers have been published in the top journal - *Transportation Research Part C: Emerging Technologies*.
+I am a master student in the School of Intelligent Systems Engineering at Sun Yat-Sen University. My research interests are machine learning and urban traffic data analytics. During my master research, I focused on spatio-temporal (multivariate and multidimensional) time series imputation and prediction, and the related papers have been published in the top journal - *Transportation Research Part C: Emerging Technologies*.
 
 Research Interests
 ======
