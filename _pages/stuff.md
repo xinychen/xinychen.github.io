@@ -9,7 +9,7 @@ redirect_from:
 
 - **Online tools**: [[colab - Google](https://colab.research.google.com/)] [[overleaf.com](https://www.overleaf.com)]
 
-- **mgcnn** - GeometricMatrixCompletionwithRecurrent Multi-GraphNeuralNetworks. [[paper](https://papers.nips.cc/paper/6960-geometric-matrix-completion-with-recurrent-multi-graph-neural-networks.pdf)] [[GitHub](https://github.com/fmonti/mgcnn)]
+- **mgcnn** - Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks. [[paper](https://papers.nips.cc/paper/6960-geometric-matrix-completion-with-recurrent-multi-graph-neural-networks.pdf)] [[GitHub](https://github.com/fmonti/mgcnn)]
 
 - **GAN lab** - Play with Generative Adversarial Networks (GANs) in your browser! [[link](https://poloclub.github.io/ganlab/)]
 
