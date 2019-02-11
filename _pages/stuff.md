@@ -9,6 +9,8 @@ redirect_from:
 
 - **Online tools**: [[colab - Google](https://colab.research.google.com/)] [[overleaf.com](https://www.overleaf.com)]
 
+- **mgcnn** - GeometricMatrixCompletionwithRecurrent Multi-GraphNeuralNetworks. [[paper](https://papers.nips.cc/paper/6960-geometric-matrix-completion-with-recurrent-multi-graph-neural-networks.pdf)] [[GitHub](https://github.com/fmonti/mgcnn)]
+
 - **GAN lab** - Play with Generative Adversarial Networks (GANs) in your browser! [[link](https://poloclub.github.io/ganlab/)]
 
 - **Prophet (Forecasting at scale)** - Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. [[facebook](https://facebook.github.io/prophet/)] [[Guide example](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-prophet-in-python-3)] [[Analysis example](https://www.kaggle.com/elenapetrova/time-series-analysis-and-forecasts-with-prophet)]
