@@ -20,7 +20,7 @@ Journal Publications
 
 Top AI conference
 ------
-- *Xinyu Chen*, Lijun Sun (2019). Bayesian temporal factorization for spatiotemporal time series prediction with missing values. [[Guangzhou data set](http://doi.org/10.5281/zenodo.1205229)] [[Birmingham data set](https://archive.ics.uci.edu/ml/datasets/Parking+Birmingham)] [[NYC taxi data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)] [[BTMF code](https://github.com/lijunsun/btmf)] [[BTTF code](https://github.com/lijunsun/bttf)] [*in preparation*]
+- *Xinyu Chen*, Lijun Sun (2019). Bayesian temporal factorization for spatiotemporal imputation and prediction. [[Guangzhou data set](http://doi.org/10.5281/zenodo.1205229)] [[Birmingham data set](https://archive.ics.uci.edu/ml/datasets/Parking+Birmingham)] [[NYC taxi data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)] [[BTMF code](https://github.com/lijunsun/btmf)] [[BTTF code](https://github.com/lijunsun/bttf)] [*in preparation*]
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
