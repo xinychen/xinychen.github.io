@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student in the School of Intelligent Systems Engineering at Sun Yat-Sen University. My research interests are machine learning and urban traffic data analytics. During my master research, I focused on spatio-temporal (multivariate and multidimensional) time series imputation and prediction, and the related papers have been published in the top journal - *Transportation Research Part C: Emerging Technologies*.
+I am currently a **master student** in the School of Intelligent Systems Engineering at **Sun Yat-Sen University**. My research interests are machine learning and urban traffic data analytics. During my master research, I focused on **spatiotemporal (multivariate and multidimensional) time series imputation and prediction**, and the related papers have been published in the top journal - *Transportation Research Part C: Emerging Technologies*.
 
 Research Interests
 ======
@@ -18,14 +18,16 @@ Research Interests
 Selected Publications
 ======
 
-- *Xinyu Chen*, Zhaocheng He, Yixian Chen, Yuhuan Lu (2019). Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model. *Transportation Research Part C: Emerging Technologies*. [[data](http://doi.org/10.5281/zenodo.1205229)] [[Matlab code](https://github.com/sysuits/BATF)] [*under review*]
+- *Xinyu Chen*, Zhaocheng He, Yixian Chen, Yuhuan Lu (2019). **Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model**. *Transportation Research Part C: Emerging Technologies*. [[data](http://doi.org/10.5281/zenodo.1205229)] [[Matlab code](https://github.com/sysuits/BATF)] [*under review*]
 
-- *Xinyu Chen*, Zhaocheng He, Lijun Sun (2019). A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation. *Transportation Research Part C: Emerging Technologies*, 98: 73-84. [[preprint](https://www.researchgate.net/publication/329177786_A_Bayesian_tensor_decomposition_approach_for_spatiotemporal_traffic_data_imputation)] [[doi](https://doi.org/10.1016/j.trc.2018.11.003)] [[data](http://doi.org/10.5281/zenodo.1205229)] [[Matlab code](https://github.com/lijunsun/bgcp_imputation)] [[Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/transdim/blob/master/BGCP_example.ipynb)]
+- *Xinyu Chen*, Zhaocheng He, Lijun Sun (2019). **A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation**. *Transportation Research Part C: Emerging Technologies*, 98: 73-84. [[preprint](https://www.researchgate.net/publication/329177786_A_Bayesian_tensor_decomposition_approach_for_spatiotemporal_traffic_data_imputation)] [[doi](https://doi.org/10.1016/j.trc.2018.11.003)] [[data](http://doi.org/10.5281/zenodo.1205229)] [[Matlab code](https://github.com/lijunsun/bgcp_imputation)] [[Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/transdim/blob/master/BGCP_example.ipynb)]
 
-- *Xinyu Chen*, Zhaocheng He, Jiawei Wang (2018). Spatial-temporal traffic speed patterns discovery and incomplete data recovery via SVD-combined tensor decomposition. *Transportation Research Part C: Emerging Technologies*, 86: 59-77. [[doi](http://doi.org/10.1016/j.trc.2017.10.023)] [[data](http://doi.org/10.5281/zenodo.1205229)]
+- *Xinyu Chen*, Zhaocheng He, Jiawei Wang (2018). **Spatial-temporal traffic speed patterns discovery and incomplete data recovery via SVD-combined tensor decomposition**. *Transportation Research Part C: Emerging Technologies*, 86: 59-77. [[doi](http://doi.org/10.1016/j.trc.2017.10.023)] [[data](http://doi.org/10.5281/zenodo.1205229)]
 
 Open Sources
 =======
-- [Urban traffic speed data set](https://zenodo.org/record/1205229): This is our open traffic speed data set, which consists of 214 anonymous road segments within two months at 10-minute interval, and the speed observations were collected in Guangzhou, China.
+- [**Urban traffic speed data set**](https://zenodo.org/record/1205229): This is our open traffic speed data set, which consists of 214 anonymous road segments within two months at 10-minute interval, and the speed observations were collected in Guangzhou, China.
 
-- [transdim](https://github.com/xinychen/transdim): This is our open project for transportation data imputation which covers the missing data imputation and spatio-temporal short-term (or long-term) traffic forecasting using a variety of machine learning and deep learning models.
+- [**transdim**](https://github.com/xinychen/transdim): This is our open project for transportation data imputation which covers the missing data imputation and spatiotemporal short-term (or long-term) traffic forecasting using a variety of machine learning and deep learning models.
+
+- **Popular GitHub repositories**: [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) [[55 stars](https://github.com/xinychen/awesome-latex-drawing/stargazers)] \& [academic-drawing](https://github.com/xinychen/academic-drawing) [[47 stars](https://github.com/xinychen/academic-drawing/stargazers)].
