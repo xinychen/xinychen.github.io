@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a **master student** in the School of Intelligent Systems Engineering at **Sun Yat-Sen University**. My research interests are machine learning and urban traffic data analytics. During my master research, I focused on **spatiotemporal (multivariate and multidimensional) time series imputation and prediction**, and the related papers have been published in the top journal - *Transportation Research Part C: Emerging Technologies*.
+I am currently a **master student** in the School of Intelligent Systems Engineering at **Sun Yat-Sen University**. My research interests are machine learning and urban traffic data analytics. Recently, I focused on **spatiotemporal (multivariate/multidimensional) time series imputation and prediction**, and the related papers have been published in the top journal - *Transportation Research Part C: Emerging Technologies*.
 
 Research Interests
 ======
@@ -30,4 +30,6 @@ Open Sources
 
 - [**transdim**](https://github.com/xinychen/transdim): This is our open project for transportation data imputation which covers the missing data imputation and spatiotemporal short-term (or long-term) traffic forecasting using a variety of machine learning and deep learning models.
 
-- **Popular GitHub repositories**: [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing) [[55 stars](https://github.com/xinychen/awesome-latex-drawing/stargazers)] \& [academic-drawing](https://github.com/xinychen/academic-drawing) [[47 stars](https://github.com/xinychen/academic-drawing/stargazers)].
+- **Popular GitHub repositories**:
+  - [awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing): Drawing Bayesian networks, graphical models and framework for academic studies in LaTeX. [[55 stars](https://github.com/xinychen/awesome-latex-drawing/stargazers)]
+  - [academic-drawing](https://github.com/xinychen/academic-drawing): This is a project providing source codes (including Matlab and Python) for presenting experiment results. [[47 stars](https://github.com/xinychen/academic-drawing/stargazers)]
