@@ -18,7 +18,7 @@ Research Interests
 Selected Publications
 ======
 
-- *Xinyu Chen*, Zhaocheng He, Yixian Chen, Yuhuan Lu (2019). **Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model**. *Transportation Research Part C: Emerging Technologies*. [[data](http://doi.org/10.5281/zenodo.1205229)] [[Matlab code](https://github.com/sysuits/BATF)] [*under review*]
+- *Xinyu Chen*, Zhaocheng He, Yixian Chen, Yuhuan Lu (2019). **Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model**. *Transportation Research Part C: Emerging Technologies*. [[preprint](https://xinychen.github.io/paper/BATF.pdf)] [data](http://doi.org/10.5281/zenodo.1205229)] [[Matlab code](https://github.com/sysuits/BATF)] [*ready for decision*]
 
 - *Xinyu Chen*, Zhaocheng He, Lijun Sun (2019). **A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation**. *Transportation Research Part C: Emerging Technologies*, 98: 73-84. [[preprint](https://www.researchgate.net/publication/329177786_A_Bayesian_tensor_decomposition_approach_for_spatiotemporal_traffic_data_imputation)] [[doi](https://doi.org/10.1016/j.trc.2018.11.003)] [[data](http://doi.org/10.5281/zenodo.1205229)] [[Matlab code](https://github.com/lijunsun/bgcp_imputation)] [[Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/transdim/blob/master/BGCP_example.ipynb)]
 
