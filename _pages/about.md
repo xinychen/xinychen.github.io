@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a **master student** in the School of Intelligent Systems Engineering at **Sun Yat-Sen University**. My research interests are machine learning and urban traffic data analytics. Recently, I focused on spatiotemporal (multivariate/multidimensional) time series imputation and prediction, and the related papers have been published in the top journal - *Transportation Research Part C: Emerging Technologies*.
+I am currently a **master student** in the School of Intelligent Systems Engineering at **Sun Yat-Sen University**. My research interests are machine learning, mobility computing, and urban traffic data analytics. Recently, I focused on spatiotemporal (multivariate/multidimensional) time series imputation and prediction, and the related papers have been published in the top journal - *Transportation Research Part C: Emerging Technologies*.
 
 Research Interests
 ======
