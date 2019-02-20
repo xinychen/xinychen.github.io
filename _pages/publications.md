@@ -25,17 +25,8 @@ Top AI Conference
 Transportation Conference
 ------
 
-- Lijun Sun, **Xinyu Chen**, Zhaocheng He, Luis F. Miranda-Moreno. Pattern discovery and anomaly detection of individual travel behavior using license plate recognition data. 98th Annual Meeting of Transportation Research Board (**TRB 2019**), Washington, D.C., January 2019. [[preprint](https://www.researchgate.net/publication/328126868_Pattern_discovery_and_anomaly_detection_of_individual_travel_behavior_using_license_plate_recognition_data)] (poster)
+- Lijun Sun, **Xinyu Chen**, Zhaocheng He, Luis F. Miranda-Moreno. **Pattern discovery and anomaly detection of individual travel behavior using license plate recognition data**. 98th Annual Meeting of Transportation Research Board (**TRB 2019**), Washington, D.C., January 2019. [[preprint](https://www.researchgate.net/publication/328126868_Pattern_discovery_and_anomaly_detection_of_individual_travel_behavior_using_license_plate_recognition_data)] (poster)
 
-- Yixian Chen, Zhaocheng He, **Xinyu Chen**, Yaxiong Han. An augmented Bayesian tensor factorization model for missing traffic speed data imputation. 98th Annual Meeting of Transportation Research Board (**TRB 2019**), Washington, D.C., January 2019. (poster)
+- Yixian Chen, Zhaocheng He, **Xinyu Chen**, Yaxiong Han. **An augmented Bayesian tensor factorization model for missing traffic speed data imputation**. 98th Annual Meeting of Transportation Research Board (**TRB 2019**), Washington, D.C., January 2019. (poster)
 
-- Zhaocheng He, **Xinyu Chen**, Jiawei Wang, Yuhuan Lu. Recovering large-scale incomplete traffic speed via tensor completion. 97th Annual Meeting of Transportation Research Board (**TRB 2018**), Washington, D.C., January 2018. (poster)
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+- Zhaocheng He, **Xinyu Chen**, Jiawei Wang, Yuhuan Lu. **Recovering large-scale incomplete traffic speed via tensor completion**. 97th Annual Meeting of Transportation Research Board (**TRB 2018**), Washington, D.C., January 2018. (poster)
