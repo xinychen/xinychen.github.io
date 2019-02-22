@@ -7,8 +7,10 @@ author_profile: true
 
 I love Mathematics and Machine Learning related stuff.
 
-- Deep Learning
+Deep Learning
 ------
+
+  - Hayden Klok, Yoni Nazarathy. Statistics with Julia: Fundamentals for Data Science, Machine Learning and Artificial Intelligence, February 15, 2019. [[book draft](https://people.smp.uq.edu.au/YoniNazarathy/julia-stats/StatisticsWithJulia.pdf)]
 
   - **mgcnn** - Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks. [[paper](https://papers.nips.cc/paper/6960-geometric-matrix-completion-with-recurrent-multi-graph-neural-networks.pdf)] [[GitHub](https://github.com/fmonti/mgcnn)]
 
