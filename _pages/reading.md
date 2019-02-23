@@ -7,6 +7,12 @@ author_profile: true
 
 I love Mathematics and Machine Learning related stuff.
 
+Following
+------
+
+Machine learning: [[Max Welling](https://staff.fnwi.uva.nl/m.welling/)], [[Thomas Kipf](https://tkipf.github.io/)].
+
+
 Deep Learning
 ------
 
