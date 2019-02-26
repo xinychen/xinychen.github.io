@@ -10,7 +10,7 @@ You can also find more about my research on [Google Scholar](https://scholar.goo
 Journal Publications
 ------
 
-- **Xinyu Chen**, Zhaocheng He, Yixian Chen, Yuhuan Lu (2019). **Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model**. Transportation Research Part C: Emerging Technologies. [[preprint](https://xinychen.github.io/paper/BATF.pdf)] [[data](http://doi.org/10.5281/zenodo.1205229)] [[Matlab code](https://github.com/sysuits/BATF)] (ready for decision)
+- **Xinyu Chen**, Zhaocheng He, Yixian Chen, Yuhuan Lu, Jiawei Wang (2019). **Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model**. Transportation Research Part C: Emerging Technologies. [[preprint](https://xinychen.github.io/paper/BATF.pdf)] [[data](http://doi.org/10.5281/zenodo.1205229)] [[Matlab code](https://github.com/sysuits/BATF)] (ready for decision)
 
 - **Xinyu Chen**, Zhaocheng He, Lijun Sun (2019). **A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation**. Transportation Research Part C: Emerging Technologies, 98: 73-84. [[preprint](https://www.researchgate.net/publication/329177786_A_Bayesian_tensor_decomposition_approach_for_spatiotemporal_traffic_data_imputation)] [[doi](https://doi.org/10.1016/j.trc.2018.11.003)] [[data](http://doi.org/10.5281/zenodo.1205229)] [[Matlab code](https://github.com/lijunsun/bgcp_imputation)] [[Jupyter notebook](https://nbviewer.jupyter.org/github/xinychen/transdim/blob/master/BGCP_example.ipynb)]
 
@@ -20,7 +20,7 @@ Journal Publications
 
 Top AI Conference
 ------
-- **Xinyu Chen**, Lijun Sun (2019). **Bayesian temporal factorization for spatiotemporal imputation and prediction**, 28th International Joint Conference on Artificial Intelligence (**IJCAI-19**). [[slide](https://xinychen.github.io/paper/Bayesian-temporal-factorization-slide.pdf)] [[Guangzhou data set](http://doi.org/10.5281/zenodo.1205229)] [[Birmingham data set](https://archive.ics.uci.edu/ml/datasets/Parking+Birmingham)] [[NYC taxi data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)] [[BTMF code](https://github.com/lijunsun/btmf)] [[BTTF code](https://github.com/lijunsun/bttf)] (in preparation)
+- **Xinyu Chen**, Lijun Sun (2019). **Bayesian temporal factorization for multidimensional time series prediction**, 28th International Joint Conference on Artificial Intelligence (**IJCAI-19**). [[slide](https://xinychen.github.io/paper/Bayesian-temporal-factorization-slide.pdf)] [[Guangzhou data set](http://doi.org/10.5281/zenodo.1205229)] [[Birmingham data set](https://archive.ics.uci.edu/ml/datasets/Parking+Birmingham)] [[NYC taxi data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)] [[BTMF code](https://github.com/lijunsun/btmf)] [[BTTF code](https://github.com/lijunsun/bttf)] (in preparation)
 
 Transportation Conference
 ------
