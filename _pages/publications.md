@@ -20,7 +20,7 @@ Journal Publications
 
 Top AI Conference
 ------
-- **Xinyu Chen**, Lijun Sun (2019). **Bayesian temporal factorization for multidimensional time series prediction**, 28th International Joint Conference on Artificial Intelligence (**IJCAI-19**). [[slide](https://xinychen.github.io/paper/Bayesian-temporal-factorization-slide.pdf)] [[Guangzhou data set](http://doi.org/10.5281/zenodo.1205229)] [[Birmingham data set](https://archive.ics.uci.edu/ml/datasets/Parking+Birmingham)] [[NYC taxi data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)] [[BTMF code](https://github.com/lijunsun/btmf)] [[BTTF code](https://github.com/lijunsun/bttf)] (in preparation)
+- **Xinyu Chen**, Lijun Sun (2019). **Bayesian temporal factorization for multidimensional time series prediction**, 28th International Joint Conference on Artificial Intelligence (**IJCAI-19**). [[preprint](https://xinychen.github.io/paper/Bayesian-temporal-factorization.pdf)] [[slide](https://xinychen.github.io/paper/Bayesian-temporal-factorization-slide.pdf)] [[Guangzhou data set](http://doi.org/10.5281/zenodo.1205229)] [[Birmingham data set](https://archive.ics.uci.edu/ml/datasets/Parking+Birmingham)] [[NYC taxi data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)] [[BTMF code](https://github.com/lijunsun/btmf)] [[BTTF code](https://github.com/lijunsun/bttf)] (submitted)
 
 Transportation Conference
 ------
