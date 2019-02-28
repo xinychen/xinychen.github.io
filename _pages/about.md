@@ -34,4 +34,4 @@ Open Sources
 
 - **Popular GitHub repositories**:
   - [**awesome-latex-drawing**](https://github.com/xinychen/awesome-latex-drawing): Drawing Bayesian networks, graphical models and framework for academic studies in LaTeX. [[59 stars](https://github.com/xinychen/awesome-latex-drawing/stargazers)]
-  - [**academic-drawing**](https://github.com/xinychen/academic-drawing): This is a project providing source codes (including Matlab and Python) for presenting experiment results. [[53 stars](https://github.com/xinychen/academic-drawing/stargazers)]
+  - [**academic-drawing**](https://github.com/xinychen/academic-drawing): This is a project providing source codes (including Matlab and Python) for presenting experiment results. [[55 stars](https://github.com/xinychen/academic-drawing/stargazers)]
