@@ -30,7 +30,7 @@ Open Sources
 =======
 - [**Urban traffic speed data set**](https://zenodo.org/record/1205229): This is our open traffic speed data set, which consists of 214 anonymous road segments within two months at 10-minute interval, and the speed observations were collected in Guangzhou, China.
 
-- [**transdim**](https://github.com/xinychen/transdim): This is our open project for transportation data imputation which covers the missing data imputation and spatiotemporal short-term (or long-term) traffic forecasting using a variety of machine learning and deep learning models.
+- [**transdim**](https://github.com/xinychen/transdim): This is our open project for transportation data imputation which covers the missing data imputation and spatiotemporal short-term (or long-term) traffic forecasting using a variety of machine learning and deep learning models. [[18 stars](https://github.com/xinychen/transdim/stargazers)]
 
 - **Popular GitHub repositories**:
   - [**awesome-latex-drawing**](https://github.com/xinychen/awesome-latex-drawing): Drawing Bayesian networks, graphical models and framework for academic studies in LaTeX. [[84 stars](https://github.com/xinychen/awesome-latex-drawing/stargazers)]
