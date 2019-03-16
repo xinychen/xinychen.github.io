@@ -33,5 +33,5 @@ Open Sources
 - [**transdim**](https://github.com/xinychen/transdim): This is our open project for transportation data imputation which covers the missing data imputation and spatiotemporal short-term (or long-term) traffic forecasting using a variety of machine learning and deep learning models. [[18 stars](https://github.com/xinychen/transdim/stargazers)]
 
 - **Popular GitHub repositories**:
-  - [**awesome-latex-drawing**](https://github.com/xinychen/awesome-latex-drawing): Drawing Bayesian networks, graphical models and framework for academic studies in LaTeX. [[115 stars](https://github.com/xinychen/awesome-latex-drawing/stargazers)]
+  - [**awesome-latex-drawing**](https://github.com/xinychen/awesome-latex-drawing): Drawing Bayesian networks, graphical models and framework for academic studies in LaTeX. [[117 stars](https://github.com/xinychen/awesome-latex-drawing/stargazers)]
   - [**academic-drawing**](https://github.com/xinychen/academic-drawing): This is a project providing source codes (including Matlab and Python) for presenting experiment results. [[59 stars](https://github.com/xinychen/academic-drawing/stargazers)]
