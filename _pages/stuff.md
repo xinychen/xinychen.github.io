@@ -7,7 +7,7 @@ redirect_from:
   - /stuff.html
 ---
 
-- **Call for paper**: *IEEE Transactions on Neural Networks and Learning Systems* Special Issue on [Robust Learning of Spatio-Temporal Point Processes: Modeling, Algorithm, and Applications](https://cis.ieee.org/images/files/Documents/call-for-papers/tnnls/TNNLS_SI_RLSTPP_CFP.pdf).
+- **Call for paper**: IEEE Transactions on Neural Networks and Learning Systems Special Issue on [**Robust Learning of Spatio-Temporal Point Processes: Modeling, Algorithm, and Applications**](https://cis.ieee.org/images/files/Documents/call-for-papers/tnnls/TNNLS_SI_RLSTPP_CFP.pdf).
 
 - **Online tools**: [[colab - Google](https://colab.research.google.com/)] [[overleaf.com](https://www.overleaf.com)]
 
