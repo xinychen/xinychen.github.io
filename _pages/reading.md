@@ -14,9 +14,14 @@ Following
 
 Machine Learning
 ------
-  - Shiwei Lan, 2019. *Learning temporal evolution of spatial dependence with generalized spatiotemporal Gaussian process models*. [[arXiv](https://arxiv.org/pdf/1901.04030.pdf)]
 
-  - Borhan M. Sanandaji, Akin Tascikaraoglu, Kameshwar Poolla, Pravin Varaiya, 2015. *Low-dimensional models in spatio-temporal wind speed forecasting*. [[arXiv](https://arxiv.org/pdf/1503.01210.pdf)]
+  - Weichang Wu, Junchi Yan, Xiaokang Yang, Hongyuan Zha, 2018. **Decoupled learning for factorial marked temporal point processes**. [[arXiv](https://arxiv.org/pdf/1801.06805.pdf)]
+
+  - Dimitris Bertsimas, Arthur Delarue, Patrick Jaillet, Sebastien Martin, 2018. **Travel time estimation in the age of big data**. [[PDF](http://web.mit.edu/jaillet/www/general/travel-time-18.pdf)]
+
+  - Shiwei Lan, 2019. **Learning temporal evolution of spatial dependence with generalized spatiotemporal Gaussian process models**. [[arXiv](https://arxiv.org/pdf/1901.04030.pdf)]
+
+  - Borhan M. Sanandaji, Akin Tascikaraoglu, Kameshwar Poolla, Pravin Varaiya, 2015. **Low-dimensional models in spatio-temporal wind speed forecasting**. [[arXiv](https://arxiv.org/pdf/1503.01210.pdf)]
 
 Deep Learning
 ------
