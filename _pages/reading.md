@@ -12,6 +12,11 @@ Following
 
   - Machine learning: [[Max Welling](https://staff.fnwi.uva.nl/m.welling/)], [[Thomas Kipf](https://tkipf.github.io/)].
 
+Machine Learning
+------
+  - Shiwei Lan, 2019. *Learning temporal evolution of spatial dependence with generalized spatiotemporal Gaussian process models*. [[arXiv](https://arxiv.org/pdf/1901.04030.pdf)]
+
+  - Borhan M. Sanandaji, Akin Tascikaraoglu, Kameshwar Poolla, Pravin Varaiya, 2015. *Low-dimensional models in spatio-temporal wind speed forecasting*. [[arXiv](https://arxiv.org/pdf/1503.01210.pdf)]
 
 Deep Learning
 ------
