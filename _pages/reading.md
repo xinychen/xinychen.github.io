@@ -12,6 +12,8 @@ Following
 
   - Machine learning: [**Max Welling**](https://staff.fnwi.uva.nl/m.welling/), [**Thomas Kipf**](https://tkipf.github.io/).
 
+  - Spatiotemporal modeling: [**Noel Cressie**](https://scholar.google.com/citations?user=BTVSL8cAAAAJ&hl=en).
+
 Machine Learning
 ------
 
