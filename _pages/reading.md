@@ -17,6 +17,10 @@ Following
 Machine Learning
 ------
 
+  - Christopher K. Wikle, L. Mark Berliner, Noel Cressie, 1998. **Hierarchical Bayesian space-time models**. [[PDF](https://link.springer.com/content/pdf/10.1023%2FA%3A1009662704779.pdf)]
+
+  - Christopher K. Wikle, Noel Cressie, 1999. **A dimension-reduced approach to space-time Kalman filtering**. [[PDF](https://watermark.silverchair.com/860815.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAlkwggJVBgkqhkiG9w0BBwagggJGMIICQgIBADCCAjsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMHtHynnZgjEAMnrTQAgEQgIICDBpKvnV9Dsg9ldxJywhuhcRGCIJx5ZG--LCYMqJp0Gq-TspO-15OvIwypDgTLEC1kxDvWAOTiTKnbH5iThpw6h6Egs3FMsW6260h1MTOI3y1gkNMB5tI3lVeiUN8aCbSiyPyF6WKViyVzflDfObeMsyYtvrpGLrxvt3eg0VhoBz5fpYSGvLR8SmIfjLg7VmjLF5eE24unVfompwl6tXJfpOve4WM4t6YshNNCSyXTPb5vkucNCWiJ1gsYvk9Qpi9R7EWJiiOYMgQjPUDp8yYgHvlE08q-VQ4PBgE-_v6UVDYnTMaUla5NY7vJLa4ljGWfzzuAnAmNoyPcgtAhGVpuesLqWx4OoiuIGaVczINoF1kK0o3KNjGkaTWgxPkJnAcc13D2_VuC1j7Br_87j04PoF14zqwoZbO8lt9F3945-xoPaUxL9cGDlZ6e_rzvhaWtpi_VGDtYOz-OJdVKEgkdBp63cRS2W0OGgjjs42hSablT-oik5XPwOHzqVaLstyE358-ggh0Ex18w1xLBgJcHvecYYiV40a8YihU0npE35cYmaOA3-63rty5_NL5np2mifgUo3kuqqR2ROyEMSYqs9NiGk7wp1o44q2bPb4l5k6SX3nXMgyRsR2FPc1_V54qbd5DCBTAH4ySOyI0E0U9DCXaSezxdcL1kgz2dlTuA55yQc9TMeziqubW7uxN)]
+
   - L. Mark Berliner, Christopher K. Wikle, Noel A. Cressie, 2000. **Long-lead prediction of Pacific SSTs via Bayesian dynamic modeling**. [[PDF](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://cn.bing.com/&httpsredir=1&article=9833&context=infopapers)]
 
   - Shun Kataoka, Muneki Yasuda, Cyril Furtlehner, Kazuyuki Tanaka, 2014. **Traffic data reconstruction based on Markov random field modeling**. [[PDF](https://iopscience.iop.org/article/10.1088/0266-5611/30/2/025003/pdf)]
