@@ -15,6 +15,10 @@ Following
 Machine Learning
 ------
 
+  - L. Mark Berliner, Christopher K. Wikle, Noel A. Cressie, 2000. **Long-lead prediction of Pacific SSTs via Bayesian dynamic modeling**. [[PDF](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://cn.bing.com/&httpsredir=1&article=9833&context=infopapers)]
+
+  - Shun Kataoka, Muneki Yasuda, Cyril Furtlehner, Kazuyuki Tanaka, 2014. **Traffic data reconstruction based on Markov random field modeling**. [[PDF](https://iopscience.iop.org/article/10.1088/0266-5611/30/2/025003/pdf)]
+
   - Weichang Wu, Junchi Yan, Xiaokang Yang, Hongyuan Zha, 2018. **Decoupled learning for factorial marked temporal point processes**. [[arXiv](https://arxiv.org/pdf/1801.06805.pdf)]
 
   - Dimitris Bertsimas, Arthur Delarue, Patrick Jaillet, Sebastien Martin, 2018. **Travel time estimation in the age of big data**. [[PDF](http://web.mit.edu/jaillet/www/general/travel-time-18.pdf)]
