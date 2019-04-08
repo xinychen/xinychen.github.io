@@ -9,11 +9,13 @@ redirect_from:
 
 - **Call for paper**: IEEE Transactions on Neural Networks and Learning Systems Special Issue on [**Robust Learning of Spatio-Temporal Point Processes: Modeling, Algorithm, and Applications**](https://cis.ieee.org/images/files/Documents/call-for-papers/tnnls/TNNLS_SI_RLSTPP_CFP.pdf).
 
-- **Online tools**: [[colab - Google](https://colab.research.google.com/)] [[overleaf.com](https://www.overleaf.com)]
+- **Online tools**: [[**colab - Google**](https://colab.research.google.com/)] [[**overleaf.com**](https://www.overleaf.com)]
 
-- **GAN lab** - Play with Generative Adversarial Networks (GANs) in your browser! [[link](https://poloclub.github.io/ganlab/)]
+- **Time Series** - Awesome platform for finding state-of-the-art models. [[**link**](https://paperswithcode.com/area/time-series)]
 
-- **Prophet (Forecasting at scale)** - Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. [[facebook](https://facebook.github.io/prophet/)] [[Guide example](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-prophet-in-python-3)] [[Analysis example](https://www.kaggle.com/elenapetrova/time-series-analysis-and-forecasts-with-prophet)]
+- **GAN lab** - Play with Generative Adversarial Networks (GANs) in your browser! [[**link**](https://poloclub.github.io/ganlab/)]
+
+- **Prophet (Forecasting at scale)** - Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. [[**facebook**](https://facebook.github.io/prophet/)] [[**Guide example**](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-prophet-in-python-3)] [[**Analysis example**](https://www.kaggle.com/elenapetrova/time-series-analysis-and-forecasts-with-prophet)]
 
 - **fancyimpute** - Multivariate imputation and matrix completion algorithms implemented in Python. [[GitHub](https://github.com/iskandr/fancyimpute)]
 
