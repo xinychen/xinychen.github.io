@@ -17,9 +17,9 @@ Following
 Machine Learning
 ------
 
-  - Christopher K. Wikle, L. Mark Berliner, Noel Cressie, 1998. **Hierarchical Bayesian space-time models**. [[PDF](https://link.springer.com/content/pdf/10.1023%2FA%3A1009662704779.pdf)]
+  - Christopher K. Wikle, L. Mark Berliner, Noel Cressie, 1998. **Hierarchical Bayesian space-time models**. [[**PDF**](https://link.springer.com/content/pdf/10.1023%2FA%3A1009662704779.pdf)]
 
-  - Christopher K. Wikle, Noel Cressie, 1999. **A dimension-reduced approach to space-time Kalman filtering**. [[PDF](https://pdfs.semanticscholar.org/0e50/7847aaab498f148f595aac6163f88ce41410.pdf)]
+  - Christopher K. Wikle, Noel Cressie, 1999. **A dimension-reduced approach to space-time Kalman filtering**. [[**PDF**](https://pdfs.semanticscholar.org/0e50/7847aaab498f148f595aac6163f88ce41410.pdf)]
 
   - L. Mark Berliner, Christopher K. Wikle, Noel A. Cressie, 2000. **Long-lead prediction of Pacific SSTs via Bayesian dynamic modeling**. [[PDF](https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=https://cn.bing.com/&httpsredir=1&article=9833&context=infopapers)]
 
