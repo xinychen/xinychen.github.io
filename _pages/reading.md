@@ -17,6 +17,8 @@ Following
 Machine Learning
 ------
 
+  - Shun-Yao Shih, Fan-Keng Sun, Hung-yi Lee, 2018. **Temporal pattern attention for multivariate time series forecasting**. [[**PDF**](https://arxiv.org/pdf/1809.04206v2.pdf)]
+
   - Christopher K. Wikle, L. Mark Berliner, Noel Cressie, 1998. **Hierarchical Bayesian space-time models**. [[**PDF**](https://link.springer.com/content/pdf/10.1023%2FA%3A1009662704779.pdf)]
 
   - Christopher K. Wikle, Noel Cressie, 1999. **A dimension-reduced approach to space-time Kalman filtering**. [[**PDF**](https://pdfs.semanticscholar.org/0e50/7847aaab498f148f595aac6163f88ce41410.pdf)]
