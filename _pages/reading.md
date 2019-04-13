@@ -17,6 +17,8 @@ Following
 Machine Learning
 ------
 
+  - Tsubasa Takahashi, Bryan Hooi, Christos Faloutsos, 2017. **AutoCyclone: Automatic mining of cyclic online activities with robust tensor factorization**. [[**PDF**](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p213.pdf)]
+
   - Shun-Yao Shih, Fan-Keng Sun, Hung-yi Lee, 2018. **Temporal pattern attention for multivariate time series forecasting**. [[**PDF**](https://arxiv.org/pdf/1809.04206v2.pdf)]
 
   - Christopher K. Wikle, L. Mark Berliner, Noel Cressie, 1998. **Hierarchical Bayesian space-time models**. [[**PDF**](https://link.springer.com/content/pdf/10.1023%2FA%3A1009662704779.pdf)]
