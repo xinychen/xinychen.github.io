@@ -28,8 +28,8 @@ Open Sources
 =======
 - [**Urban traffic speed data set**](https://zenodo.org/record/1205229): This is our open traffic speed data set, which consists of 214 anonymous road segments within two months at 10-minute interval, and the speed observations were collected in Guangzhou, China.
 
-- [**transdim**](https://github.com/xinychen/transdim): This is our open project for transportation data imputation which covers the missing data imputation and spatiotemporal short-term (or long-term) traffic forecasting using a variety of machine learning and deep learning models. [[25+ stars](https://github.com/xinychen/transdim/stargazers)]
+- [**transdim**](https://github.com/xinychen/transdim): This is our open project for transportation data imputation which covers the missing data imputation and spatiotemporal short-term (or long-term) traffic forecasting using a variety of machine learning and deep learning models. [[100+ stars](https://github.com/xinychen/transdim/stargazers)]
 
-- [**awesome-LaTeX-drawing**](https://github.com/xinychen/awesome-latex-drawing): Drawing Bayesian networks, graphical models and framework for academic studies in LaTeX. [[180+ stars](https://github.com/xinychen/awesome-latex-drawing/stargazers)]
+- [**awesome-LaTeX-drawing**](https://github.com/xinychen/awesome-latex-drawing): Drawing Bayesian networks, graphical models and framework for academic studies in LaTeX. [[400+ stars](https://github.com/xinychen/awesome-latex-drawing/stargazers)]
 
-- [**academic-drawing**](https://github.com/xinychen/academic-drawing): Providing source codes (including Matlab and Python) for presenting experiment results. [[65+ stars](https://github.com/xinychen/academic-drawing/stargazers)]
+- [**academic-drawing**](https://github.com/xinychen/academic-drawing): Providing source codes (including Matlab and Python) for presenting experiment results. [[70+ stars](https://github.com/xinychen/academic-drawing/stargazers)]
