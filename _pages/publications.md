@@ -1,8 +1,3 @@
-permalink: /stuff/
-title: "Interesting things!"
-author_profile: true
-
-
 ---
 layout: archive
 title: "Publications"
