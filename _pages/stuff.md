@@ -30,4 +30,4 @@ Awesome videos
   - How to Fix Traffic Forever. [[link](https://www.youtube.com/watch?v=N4PW66_g6XA)]
 
 - **Math**:
-  - "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by Brunton and Kutz. [Steve Brunton](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw)
+  - "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by Brunton and Kutz. [[Steve Brunton](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw)]
