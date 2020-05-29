@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Xinyu Chen"
 title_separator          : "-"
 name                     : &name "Xinyu Chen"
-description              : &description "Master student"
-description              : &description "Sun Yat-Sen University"
+description              : &description "PhD candidate"
+description              : &description "University of Montreal"
 url                      : https://xinychen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xinychen/xinychen.github.io"
@@ -86,10 +86,10 @@ author:
   bio              : |
     Master student, <br>
     Sun Yat-Sen University <br>
-  location         : "Guangzhou, China"
+  location         : "Montreal, Canada"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=mCrW04wAAAAJ&hl=en"
-  email            : "chenxy346@mail2.sysu.edu.cn"
+  email            : "chenxy346@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
