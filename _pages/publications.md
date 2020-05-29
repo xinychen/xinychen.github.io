@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -8,7 +7,7 @@ redirect_from:
   - /publications.html
 ---
 
-You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=mCrW04wAAAAJ&hl=en) profile.
+You can find more about my research on [Google Scholar](https://scholar.google.com/citations?user=mCrW04wAAAAJ&hl=en) profile or visit transdim project (machine learning for spatiotemporal data modeling: [https://transdim.github.io/](https://transdim.github.io/)).
 
 Selected Publications
 ------
