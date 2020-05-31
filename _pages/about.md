@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Xinyu Chen. Thanks for your visiting my personal website! However, this website would not update any more in the next few months. If you have any interest, please visiting [https://transdim.github.io/](https://transdim.github.io/). I would introduce my research in this website. If you want to contact me, please send an email to [chenxy346@gmail.com](chenxy346@gmail.com).
+Hi, I am Xinyu Chen. Thanks for your visiting my personal website! However, this website would not update anymore in the next few months. If you have any interest, please visit my research project: [https://transdim.github.io/](https://transdim.github.io/). I would introduce my research in this website. If you want to contact me, please send an email to [chenxy346@gmail.com](chenxy346@gmail.com).
