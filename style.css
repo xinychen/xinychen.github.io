@@ -1,0 +1,322 @@
+*{margin:0; padding:0;}
+
+
+.CERVENA {
+	font-size: 100%;
+	font-style: normal;
+	color: #F30;
+}
+
+
+body {
+font-family: Verdana, Arial, "Trebuchet MS", Sans-Serif, Georgia, Courier, "Times New Roman", Serif;
+font-size: 14px;
+background: #ffffff;
+color: #333;
+Margin:10px;
+padding:0px;
+line-height: 135%;
+}
+
+
+p
+{
+padding:0.2cm 0cm 0.2cm 0cm;
+}
+
+
+a { color: #336699; text-decoration: none; }
+a:hover { text-decoration: none; color : #880000; }
+
+img { border:none; padding: 0; vertical-align:middle;}
+img a {border:none; }
+
+ul { list-style-type: none; }
+
+#page {
+	background: #fff;
+}
+
+.main{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+
+#header {
+height: 220px;
+position: relative;
+}
+
+#header h1{
+padding-top: 0px;
+padding-bottom: 5px;
+font-size: 30px;
+font-weight: 400;
+}
+
+#header h2{
+font-weight: 100;
+margin-top: 10px;
+font-size: 18px;
+}
+
+#header h3{
+	position: absolute;
+	right: 0;
+	top: 0.3cm;
+	background: #ccc;
+	font-weight: 100;
+	color: #fff;
+	padding: 15px;
+	border-radius:5px;
+	margin-top: 12px;
+	font-size: 15px;
+}
+
+#header h1 a {
+color: #336699;
+}
+
+#header h1 a:hover {
+color: #111;
+}
+
+#menu h2 {
+text-align:right;
+color: #aaa;
+font-size: 13px;
+font-weight: 600;
+padding-right: 30px;
+}
+
+#publicLecture {
+text-align:center;
+margin-top: 12px;
+}
+
+#menu {
+background: #000;
+height: 20px;
+}
+
+#menu ul {
+list-style-type: none;
+margin: 0;
+padding-left: 30px;
+}
+
+#menu ul li {
+display: block;
+float: left;
+}
+
+#menu ul li a {
+display: block;
+padding: 0 5px 0 5px;
+text-decoration: none;
+color: #aaa;
+font-size: 13px;
+font-weight: 200;
+}
+
+#menu ul li a:hover {
+color: #fff;
+}
+
+#wrapper {
+background: url(imgs/shad.jpg) no-repeat top;
+}
+
+#content {
+float: left;
+width: 780px;
+margin: 20px 0;
+}
+
+#sidebar {
+float: right;
+width: 210px;
+margin: 20px 0px;
+padding-left: 5px;
+border-left: 1px solid #e2e2e2;
+}
+
+#footer {
+margin: 0 0;
+font-weight: 100;
+font-size: 12px;
+text-align: center;
+color: #666;
+height: 300px;
+line-height: 50px;
+}
+
+#footer p { color: #aaa; }
+#footer a { color: #aaa; text-decoration: none; }
+#footer a:hover { text-decoration: underline; }
+
+
+#content h1 {
+font-size: 20px;
+font-weight: 500;
+color:rgb(204, 102, 0)	;
+padding-top: 16px;
+padding-bottom: 16px;
+}
+
+#content h2 {
+font-size: 18px;
+font-weight: 300;
+color:rgb(204, 102, 0)	;
+margin: 16px 0px 16px 0px;
+padding: 0 0 0px;
+}
+
+#content h3 {
+font-weight: 100;
+font-size: 14px;
+margin: 0px 0; padding: 3px 10px 3px 0px;
+color: #666;
+}
+
+#content h4 {
+font-weight: 100;
+font-size: 12px;
+color: #666;
+padding-left: 0px;
+}
+
+#content h5 {
+font-weight: 100;
+font-size: 10px;
+color: #666;
+padding-left: 0px;
+}
+
+#content h6 {
+font-weight: 100;
+font-size: 8px;
+color: #666;
+padding-left: 0px;
+}
+
+#content img {
+margin: 0px;
+padding: 0 10px 10px 0;
+}
+
+#content ol {
+color: #555555;
+margin: 0px;
+padding: 10px 20px ;
+}
+
+#content ol li {
+padding: 3px 0px;
+}
+
+#content ul {
+color: #555555;
+margin: 0px;
+padding: 10px 20px ;
+}
+
+
+#content ul li {
+list-style-type: square;
+padding: 3px 0px;
+}
+
+#sidebar ul {
+    list-style-type: none;
+}
+
+#sidebar p {
+  padding: 0 20px 20px 20px;
+  text-align:justify;
+}
+
+#sidebar h2 {
+    height: 40px;
+    line-height: 40px;
+    margin: 0; padding: 0;
+    text-align:center;
+
+font-weight: 100;
+font-size: 14px;
+margin: 0px 0;
+color: #666;
+}
+
+#sidebar h6 {
+font-weight: 100;
+font-size: 10px;
+margin: 0px 0;
+color: #666;
+}
+
+#sidebar ul li {
+
+}
+
+#sidebar ul {
+padding: 10px 0 5px 20px;
+}
+
+#sidebar ul li {
+    padding: 2px 0 2px 22px;
+}
+#sidebar ul li a { font-size: 13px; }
+
+:required
+{
+    background-color: red;
+}
+
+
+
+
+
+.menu li{
+	display: inline-block;
+}
+
+.menu a.active{
+	border: 2px solid #e2e2e2;
+	border-bottom: 2px solid #fff;
+	margin-bottom: -2px;
+	color:rgb(204, 102, 0) ;
+}
+
+.menu a:hover{
+	color: rgb(204, 102, 0);
+}
+.menu a{
+	color: rgb(51,51,51);
+	display: block;
+	padding: 6px 15px ;
+	height: 20px;
+	line-height: 20px;
+}
+.menu{
+	text-align: left;
+	border-bottom: 2px solid #e2e2e2;
+}
+
+.menu li,
+.menu {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+.important{
+	color:rgb(247, 148, 29)	;
+}
+
+g_right{float: right;}
+g_left{	float: left;
+}
+g_clear{clear: both;
+}
