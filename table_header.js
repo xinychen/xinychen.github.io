@@ -13,7 +13,7 @@ document.write("<a href="https:\/\/www.umontreal.ca\/en\/"">University of Montre
 document.write("<br>");
 document.write("<br>");
 document.write("<b>Contact info:</b><br>");
-// document.write(" Montreal (QC) Canada. <br>");
+document.write(" Montreal, Quebec, Canada. <br>");
 document.write("E-mail: chenxy346@gmail.com <br>");
 document.write("<br>");
 document.write("&nbsp;");
