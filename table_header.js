@@ -20,6 +20,7 @@ document.write("&nbsp;");
 document.write("<a href=\"https:\/\/scholar.google.com\/citations?user=mCrW04wAAAAJ&hl\"><img src=\"Images\/scholar.png\" alt=\"Google Scholar\" width=\"25\" border=\"0\" height=\"25\"> <\/a> &nbsp;");
 document.write("<a href=\"https:\/\/github.com\/xinychen\"><img src=\"Images\/GitHub-Mark-120px-plus.png\" alt=\"GitHub\" width=\"25\" border=\"0\" height=\"25\"> <\/a> &nbsp;");
 document.write("<a href=\"https:\/\/twitter.com\/chenxy346\/\"> <img src=\"Images\/twitter.png\" alt=\"Twitter\"  border=\"0\" height=\"25\"><\/a><br>");
+document.write("<a href=\"https:\/\/www.zhihu.com\/people\/its312\/posts\"> <img src=\"Images\/zhihu.png\" alt=\"Zhihu\"  border=\"0\" height=\"25\"><\/a><br>");
 document.write("<\/td>");
 document.write("<\/tr>");
 document.write("<\/tbody>");
