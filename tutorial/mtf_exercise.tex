@@ -8,7 +8,7 @@
 \begin{document}
 \maketitle
 
-\noindent\textbf{2.1} For any partially observed data matrix $\boldsymbol{Y}\in\mathbb{R}^{N\times T}$ with the observed index set $\Omega$, a matrix factorization algorithm can decompose $\boldsymbol{Y}$ into lower dimensional factor matrices $\boldsymbol{W}\in\mathbb{R}^{R\times N},\boldsymbol{X}\in\mathbb{R}^{R\times T}$, and its loss function can be written as
+\noindent\textbf{2.1} (Low-Rank Matrix Factorization). For any partially observed data matrix $\boldsymbol{Y}\in\mathbb{R}^{N\times T}$ with the observed index set $\Omega$, a matrix factorization algorithm can decompose $\boldsymbol{Y}$ into lower dimensional factor matrices $\boldsymbol{W}\in\mathbb{R}^{R\times N},\boldsymbol{X}\in\mathbb{R}^{R\times T}$, and its loss function can be written as
 \begin{equation}
 f=\frac{1}{2}\sum_{(i,t)\in\Omega}\left(y_{i,t}-\boldsymbol{w}_{i}^{\top}\boldsymbol{x}_{t}\right)^{2}+\frac{\rho}{2}\left(\sum_{i=1}^{N}\|\boldsymbol{w}_{i}\|_{2}^{2}+\sum_{t=1}^{T}\|\boldsymbol{x}_{t}\|_{2}^{2}\right),
 \end{equation}
@@ -81,8 +81,8 @@ Thus,
 
 \end{enumerate}
 
-\bigskip
+\bigskip\bigskip
 
-\noindent\emph{.}
+\noindent\textbf{2.2}
 
 \end{document}
