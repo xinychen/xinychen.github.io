@@ -1,0 +1,88 @@
+\documentclass[12pt]{article}
+\usepackage{hyperref}
+\usepackage{amsmath, amsfonts, amssymb}
+\usepackage{xcolor}
+\title{Revision: Matrix and Tensor Factorization}
+\author{Xinyu Chen}
+
+\begin{document}
+\maketitle
+
+\noindent\textbf{2.1} For any partially observed data matrix $\boldsymbol{Y}\in\mathbb{R}^{N\times T}$ with the observed index set $\Omega$, a matrix factorization algorithm can decompose $\boldsymbol{Y}$ into lower dimensional factor matrices $\boldsymbol{W}\in\mathbb{R}^{R\times N},\boldsymbol{X}\in\mathbb{R}^{R\times T}$, and its loss function can be written as
+\begin{equation}
+f=\frac{1}{2}\sum_{(i,t)\in\Omega}\left(y_{i,t}-\boldsymbol{w}_{i}^{\top}\boldsymbol{x}_{t}\right)^{2}+\frac{\rho}{2}\left(\sum_{i=1}^{N}\|\boldsymbol{w}_{i}\|_{2}^{2}+\sum_{t=1}^{T}\|\boldsymbol{x}_{t}\|_{2}^{2}\right),
+\end{equation}
+where $\boldsymbol{w}_{i}\in\mathbb{R}^{R}$ is the $i$th column of $\boldsymbol{W}$, and $\boldsymbol{x}_{t}\in\mathbb{R}^{R}$ is the $t$th column of $\boldsymbol{X}$. The symbol $\|\cdot\|_{2}$ denotes the $\ell_2$-norm.
+\begin{enumerate}
+\item Obtain the partial derivative with respect to $\boldsymbol{w}_{i}$, i.e., $\frac{\partial f}{\partial \boldsymbol{w}_{i}}$. Let $\frac{\partial f}{\partial \boldsymbol{w}_{i}}=\boldsymbol{0}$, what is the solution to $\boldsymbol{w}_{i}$?
+
+{\color{red}
+In this case, with respect to $\boldsymbol{w}_{i}$, the partial derivative is given by
+\begin{equation}
+\frac{\partial f}{\partial\boldsymbol{w}_{i}}=-\sum_{t:(i,t)\in\Omega}\boldsymbol{x}_{t}\left(y_{i,t}-\boldsymbol{w}_{i}^{\top}\boldsymbol{x}_{t}\right)+\rho\boldsymbol{w}_{i}.
+\end{equation}
+
+If $\frac{\partial f}{\partial \boldsymbol{w}_{i}}=\boldsymbol{0}$, then we have
+\begin{equation}
+\begin{aligned}
+&-\sum_{t:(i,t)\in\Omega}\boldsymbol{x}_{t}\left(y_{i,t}-\boldsymbol{w}_{i}^{\top}\boldsymbol{x}_{t}\right)+\rho\boldsymbol{w}_{i}=\boldsymbol{0} \\
+\Longrightarrow&-\sum_{t:(i,t)\in\Omega}\boldsymbol{x}_{t}y_{i,t}+\left(\sum_{t:(i,t)\in\Omega}\boldsymbol{x}_{t}\boldsymbol{x}_{t}^{\top}+\rho\boldsymbol{I}_{R}\right)\boldsymbol{w}_{i}=\boldsymbol{0}.
+\end{aligned}
+\end{equation}
+Thus,
+\begin{equation}\label{solution2w}
+\boldsymbol{w}_{i}=\left(\sum_{t:(i,t)\in\Omega}\boldsymbol{x}_{t}\boldsymbol{x}_{t}^{\top}+\rho\boldsymbol{I}_{R}\right)^{-1}\sum_{t:(i,t)\in\Omega}\boldsymbol{x}_{t}y_{i,t}.
+\end{equation}
+}
+
+\item Obtain the partial derivative with respect to $\boldsymbol{x}_{t}$, i.e., $\frac{\partial f}{\partial \boldsymbol{x}_{t}}$. Let $\frac{\partial f}{\partial \boldsymbol{x}_{t}}=\boldsymbol{0}$, what is the solution to $\boldsymbol{x}_{t}$?
+
+{\color{red}
+In this case, with respect to $\boldsymbol{x}_{t}$, the partial derivative is given by
+\begin{equation}
+\frac{\partial f}{\partial\boldsymbol{x}_{t}}=-\sum_{i:(i,t)\in\Omega}\boldsymbol{w}_{i}\left(y_{i,t}-\boldsymbol{w}_{i}^{\top}\boldsymbol{x}_{t}\right)+\rho\boldsymbol{x}_{t}.
+\end{equation}
+
+If $\frac{\partial f}{\partial \boldsymbol{x}_{t}}=\boldsymbol{0}$, then we have
+\begin{equation}
+\begin{aligned}
+&-\sum_{i:(i,t)\in\Omega}\boldsymbol{w}_{i}\left(y_{i,t}-\boldsymbol{w}_{i}^{\top}\boldsymbol{x}_{t}\right)+\rho\boldsymbol{x}_{t}=\boldsymbol{0} \\
+\Longrightarrow&-\sum_{i:(i,t)\in\Omega}\boldsymbol{w}_{i}y_{i,t}+\left(\sum_{i:(i,t)\in\Omega}\boldsymbol{w}_{i}\boldsymbol{w}_{i}^{\top}+\rho\boldsymbol{I}_{R}\right)\boldsymbol{x}_{t}=\boldsymbol{0}.
+\end{aligned}
+\end{equation}
+Thus,
+\begin{equation}\label{solution2x}
+\boldsymbol{x}_{t}=\left(\sum_{i:(i,t)\in\Omega}\boldsymbol{w}_{i}\boldsymbol{w}_{i}^{\top}+\rho\boldsymbol{I}_{R}\right)^{-1}\sum_{i:(i,t)\in\Omega}\boldsymbol{w}_{i}y_{i,t}.
+\end{equation}
+}
+
+\item How to use Alternating Least Squares (ALS) method to solve the following optimization problem:
+\begin{equation}
+\min_{\boldsymbol{W},\boldsymbol{X}}~\frac{1}{2}\sum_{(i,t)\in\Omega}\left(y_{i,t}-\boldsymbol{w}_{i}^{\top}\boldsymbol{x}_{t}\right)^{2}+\frac{\rho}{2}\left(\sum_{i=1}^{N}\|\boldsymbol{w}_{i}\|_{2}^{2}+\sum_{t=1}^{T}\|\boldsymbol{x}_{t}\|_{2}^{2}\right).
+\end{equation}
+
+{\color{red}
+\begin{itemize}
+\item Initialize $\boldsymbol{W}$ and $\boldsymbol{X}$.
+\item Repeat
+\begin{itemize}
+\item[\textbullet] For $i=1$ to $N$:
+\begin{itemize}
+\item[\textbullet] Update $\boldsymbol{w}_{i}$ by Eq.~\eqref{solution2w}.
+\end{itemize}
+\item[\textbullet] For $t=1$ to $T$:
+\begin{itemize}
+\item[\textbullet] Update $\boldsymbol{x}_{t}$ by Eq.~\eqref{solution2x}.
+\end{itemize}
+\end{itemize}
+\item Return $\boldsymbol{W}$ and $\boldsymbol{X}$.
+\end{itemize}
+}
+
+\end{enumerate}
+
+\bigskip
+
+\noindent\emph{.}
+
+\end{document}
