@@ -275,7 +275,9 @@ padding: 10px 0 5px 20px;
 }
 
 
-
+li{
+    margin: -3px 0;
+}
 
 
 .menu li{
