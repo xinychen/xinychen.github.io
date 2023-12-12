@@ -11,7 +11,7 @@ document.write("<br>");
 
 // document.write("<a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a></b>");
 
-document.write("<br>");
+// document.write("<br>");
 document.write("<br>");
 document.write("<b>Contact info:</b><br>");
 document.write(" Montreal, Quebec, Canada. <br>");
