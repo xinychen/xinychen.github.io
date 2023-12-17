@@ -6,7 +6,7 @@ document.write("width=\"162.6\" height=\"200\"> <\/td>");
 document.write("<td>");
 document.write("<h1>Xinyu Chen</h1>");
 document.write("<br>");
-document.write("<b>Ph.D., <a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a></b>");
+document.write("Ph.D., <a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a>");
 document.write("<br>");
 
 // document.write("<a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a></b>");
