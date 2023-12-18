@@ -13,7 +13,7 @@ document.write("<br>");
 
 // document.write("<br>");
 document.write("<br>");
-document.write("<b>Contact info:</b><br>");
+document.write("Contact info:<br>");
 document.write(" Montreal, Quebec, Canada. <br>");
 document.write("E-mail: chenxy346@gmail.com <br>");
 document.write("<br>");
