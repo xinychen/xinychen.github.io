@@ -8,7 +8,7 @@ document.write("<h1>Xinyu Chen</h1>");
 document.write("<br>");
 document.write("Ph.D., <a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a>");
 document.write("<br>");
-document.write("Incoming Postdoc, <a href=\"https:\/\/www.mit.edu\/\">Massachusetts Institute of Technology<\/a>");
+document.write("Incoming Postdoc at <a href=\"https:\/\/www.mit.edu\/\">MIT<\/a>");
 document.write("<br>");
 
 // document.write("<a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a></b>");
