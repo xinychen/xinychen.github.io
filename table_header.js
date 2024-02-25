@@ -7,14 +7,15 @@ document.write("<td>");
 document.write("<h1>Xinyu Chen</h1>");
 document.write("<br>");
 document.write("Ph.D., <a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a>");
+document.write("Incoming Postdoc, <a href=\"https:\/\/www.mit.edu\/\">Massachusetts Institute of Technology<\/a>");
 document.write("<br>");
 
 // document.write("<a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a></b>");
 
 // document.write("<br>");
 document.write("<br>");
-document.write("Contact info:<br>");
-document.write(" Montreal, Quebec, Canada. <br>");
+// document.write("Contact info:<br>");
+// document.write(" Montreal, Quebec, Canada. <br>");
 document.write("E-mail: chenxy346@gmail.com <br>");
 document.write("<br>");
 document.write("&nbsp;");
