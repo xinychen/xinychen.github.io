@@ -6,9 +6,9 @@ document.write("width=\"162.6\" height=\"200\"> <\/td>");
 document.write("<td>");
 document.write("<h1>Xinyu Chen</h1>");
 document.write("<br>");
-document.write("Ph.D., <a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a>");
+document.write("Ph.D., <a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a>, Canada");
 document.write("<br>");
-document.write("Incoming Postdoc at <a href=\"https:\/\/www.mit.edu\/\">MIT<\/a>");
+document.write("Incoming Postdoc at <a href=\"https:\/\/www.mit.edu\/\">MIT<\/a>, USA");
 document.write("<br>");
 
 // document.write("<a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a></b>");
