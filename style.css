@@ -9,7 +9,8 @@
 
 
 body {
-font-family: Georgia;
+/* font-family: Georgia; */
+scroll-behavior: smooth;
 font-size: 17px;
 background: #ffffff;
 color: #333;
