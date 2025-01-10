@@ -28,3 +28,4 @@ document.write("<\/td>");
 document.write("<\/tr>");
 document.write("<\/tbody>");
 document.write("<\/table>");
+document.write("<br>");
