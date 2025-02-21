@@ -1,4 +1,4 @@
-document.write("<table width=\"550\" border=\"0\" height=\"200\">");
+document.write("<table width=\"650\" border=\"0\" height=\"200\">");
 document.write("<tbody>");
 document.write("<tr>");
 document.write("<td> <img src=\"Images/xinyu24.png\" alt=\"Xinyu Chen\"");
