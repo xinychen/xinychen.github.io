@@ -76,13 +76,13 @@
 
     <!-- First row: Time series chart -->
     <div class="time-series-container">
-      <div class="controls">
+      <!-- <div class="controls">
         <button id="zoomIn">Zoom In</button>
         <button id="zoomOut">Zoom Out</button>
         <button id="panLeft">Pan Left</button>
         <button id="panRight">Pan Right</button>
         <button id="resetZoom">Reset Zoom</button>
-    </div>
+    </div> -->
     <canvas id="timeSeriesChart"></canvas>
     </div>
 
@@ -461,29 +461,29 @@
         ];
 
         // Add button controls for time series chart
-        document.getElementById('zoomIn').addEventListener('click', function() {
-            timeSeriesChart.zoom(1.1);
-        });
+        // document.getElementById('zoomIn').addEventListener('click', function() {
+        //     timeSeriesChart.zoom(1.1);
+        // });
 
-        document.getElementById('zoomOut').addEventListener('click', function() {
-            timeSeriesChart.zoom(0.9);
-        });
+        // document.getElementById('zoomOut').addEventListener('click', function() {
+        //     timeSeriesChart.zoom(0.9);
+        // });
 
-        document.getElementById('panLeft').addEventListener('click', function() {
-            timeSeriesChart.pan({
-                x: -50
-            }, undefined, 'default');
-        });
+        // document.getElementById('panLeft').addEventListener('click', function() {
+        //     timeSeriesChart.pan({
+        //         x: -50
+        //     }, undefined, 'default');
+        // });
 
-        document.getElementById('panRight').addEventListener('click', function() {
-            timeSeriesChart.pan({
-                x: 50
-            }, undefined, 'default');
-        });
+        // document.getElementById('panRight').addEventListener('click', function() {
+        //     timeSeriesChart.pan({
+        //         x: 50
+        //     }, undefined, 'default');
+        // });
 
-        document.getElementById('resetZoom').addEventListener('click', function() {
-            timeSeriesChart.resetZoom();
-        });
+        // document.getElementById('resetZoom').addEventListener('click', function() {
+        //     timeSeriesChart.resetZoom();
+        // });
 
         // Prepare data for Chart.js
         const labels = timeSeriesData.map(item => item[0]);
