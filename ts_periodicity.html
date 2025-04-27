@@ -3,6 +3,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Time Series Periodicity</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         body {
@@ -92,7 +94,7 @@
         <div class="scatter-container">
             <canvas id="scatterChart1"></canvas>
             <div class="lag-control">
-                <label for="lag1">Lag (k):</label>
+                <label for="lag1">Lag (\(k\)):</label>
                 <input type="number" id="lag1" min="1" max="360" value="1">
                 <button onclick="updateChart(1)">Update</button>
             </div>
@@ -102,7 +104,7 @@
         <div class="scatter-container">
             <canvas id="scatterChart2"></canvas>
             <div class="lag-control">
-                <label for="lag2">Lag (k):</label>
+                <label for="lag2">Lag (\(k\)):</label>
                 <input type="number" id="lag2" min="1" max="360" value="24">
                 <button onclick="updateChart(2)">Update</button>
             </div>
@@ -112,7 +114,7 @@
         <div class="scatter-container">
             <canvas id="scatterChart3"></canvas>
             <div class="lag-control">
-                <label for="lag3">Lag (k):</label>
+                <label for="lag3">Lag (\(k\)):</label>
                 <input type="number" id="lag3" min="1" max="360" value="168">
                 <button onclick="updateChart(3)">Update</button>
             </div>
