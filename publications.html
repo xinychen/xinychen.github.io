@@ -4,6 +4,59 @@
     <link rel="stylesheet" href="style.css">
     <title>Xinyu Chen</title>
 
+<style>
+    /* Left border - full coverage */
+    body::before {
+        content: "";
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 220px;
+        height: 100%;
+        background: url('Images/China_land.jpg') left center/cover no-repeat;
+        z-index: -1;
+    }
+
+    /* Right border - full coverage */
+    body::after {
+        content: "";
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 220px;
+        height: 100%;
+        background: url('Images/China_land.jpg') right center/cover no-repeat;
+        z-index: -1;
+    }
+
+    /* Force header to respect layout */
+    #header_wrapper {
+        margin: 0 !important;
+        padding: 0 !important;
+        width: 100% !important;
+    }
+
+    /* Main content container */
+    #page {
+        margin: 0 250px;
+        background: white;
+    }
+
+    /* Fix for menu bar */
+    .menu {
+        background: white; /* Match your center background */
+        padding-left: 20px; /* Adjust as needed */
+    }
+
+    /* Ensure all content stays within borders */
+    .main {
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
+    }
+</style>
+
+
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script type="text/javascript">
@@ -179,15 +232,13 @@ which they appeared online. Our papers have been cited more than 1,500 times on
 </ul>
 
 <br>
-<h2>Art: <a href="https://en.wikipedia.org/wiki/Chinese_painting">Chinese Painting</a> (国画：“千里江山图”)</h2>
+<!-- <h2>Art: <a href="https://en.wikipedia.org/wiki/Chinese_painting">Chinese Painting</a> (国画：“千里江山图”)</h2>
 
 <p align="left">
-  <!-- <a href="https://github.com/xinychen/xinychen.github.io/blob/master/Images/China_land.jpg"> -->
   <img src="Images/China_land.jpg" alt="drawing" width="900" align="middle"/>
-  <!-- </a> -->
   </p>
 
-<br>
+<br> -->
 </div>
 
 
