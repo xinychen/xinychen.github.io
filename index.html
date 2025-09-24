@@ -129,8 +129,13 @@ In practice, the spatiotemporal datasets are often multidimensional tensors, inc
     <p> <b style="color: purple">Speed field reconstruction of traffic flow</b>: Generating vehicular speed fields from partially observed trajectory data. <br>
       <span>&#8226;</span> <a href="https://doi.org/10.1109/TKDE.2024.3419698">Laplacian convolutional representation for traffic time series imputation</a> (TKDE 2024) <br>
     </p>
-    <span style="color: rgb(204, 102, 0);">Keywords</span>: Circulant matrix; Nuclear norm minimization; Laplacian regularization; Fast Fourier transform
+    <span style="color: rgb(204, 102, 0);">Keywords</span>: Circulant matrix; Nuclear norm minimization; Laplacian regularization; Fast Fourier transform <br><br>
+    <span style="color: rgb(204, 102, 0);">Highlight</span>: Accelerating the optimization of time series reconstruction with convolution and fast Fourier transform.
   </li>
+  <br>
+
+<p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{x}}\,\,\underbrace{\|\mathcal{C}(\boldsymbol{x})\|_{*}}_{\text{\color{red}Nuclear norm}}+\underbrace{\frac{\gamma}{2}\|\boldsymbol{\ell}\star\boldsymbol{x}\|_2^2}_{\text{\color{red}Laplacian regularization}}\quad\text{s.t.}\,\,\underbrace{\|\mathcal{P}_{\Omega}(\boldsymbol{x}-\boldsymbol{y})\|_2\leq\epsilon}_{\text{\color{blue}Partial observations in}\,\boldsymbol{y}}"/></p>
+
   <br>
   <li>
     <p> <b style="color: purple">Spatiotemporal pattern discovery</b>: Discovering dynamic patterns from urban human mobility, international trade, and climate systems. <br>
