@@ -146,8 +146,13 @@ In practice, the spatiotemporal datasets are often multidimensional tensors, inc
       <span>&#8226;</span> <a href="https://xinychen.github.io/papers/sparse_ar.pdf">Interpretable time series autoregression for periodicity quantification</a> <br>
       <span>&#8226;</span> <a href="https://xinychen.github.io/papers/mobility_periodicity.pdf">Data-driven discovery of mobility periodicity for understanding urban systems</a> <br>
     </p>
-    <span style="color: rgb(204, 102, 0);">Keywords</span>: Time series autoregression; Sparse <img style="display: inline;" src="https://latex.codecogs.com/svg.latex?&space;\ell_0"/>-norm optimization; Subspace pursuit; Mixed-integer optimization
+    <span style="color: rgb(204, 102, 0);">Keywords</span>: Interpretable machine learning; Time series autoregression; Sparse L0-norm optimization; Subspace pursuit; Mixed-integer optimization <br><br>
+    <span style="color: rgb(204, 102, 0);">Highlight</span>: Reformulating L0-norm sparse autoregression of time series as a mixed-integer optimization problem.
   </li>
+  <br>
+
+<p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{w},\boldsymbol{\beta}}\,\,\underbrace{\sum_{t=d+1}^{T}\left(x_{t}-\sum_{k=1}^{d}w_{k}x_{t-k}\right)^2}_{\text{\color{red}Autoregression}}\quad\text{s.t.}\,\,\underbrace{-\alpha\cdot\beta_{k}\leq\,w_{k}\leq\alpha\cdot\beta_{k}}_{\text{\color{blue}Lower/Upper bounds}},\,\,\,\underbrace{\sum_{k=1}^{d}\beta_{k}\leq\tau}_{\ell_{1}\text{\color{blue}-norm sparsity}},\,\,\,\underbrace{\beta_{k}\in\{0,1\}}_{\text{\color{blue}Binary variable}}"/></p>
+
   <br>
   <li>
     <p> <b style="color: purple">Causal discovery from structured data</b> (new) <br>
