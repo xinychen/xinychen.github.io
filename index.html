@@ -122,8 +122,13 @@ In practice, the spatiotemporal datasets are often multidimensional tensors, inc
       <span>&#8226;</span> <a href="https://doi.org/10.1287/ijoc.2022.0197">Forecasting urban traffic states with sparse data using Hankel temporal matrix factorization</a> (IJOC 2024) <br>
       <span>&#8226;</span> <a href="https://pubsonline.informs.org/doi/abs/10.1287/trsc.2024.0629">Forecasting sparse movement speed of urban road networks with nonstationary temporal matrix factorization</a> (TS 2025) <br>
     </p>
-    <span style="color: rgb(204, 102, 0);">Keywords</span>: Matrix/Tensor decomposition; Time series autoregression; Hankel matrix; Bayesian inference (MCMC)
+    <span style="color: rgb(204, 102, 0);">Keywords</span>: Matrix/Tensor decomposition; Time series autoregression; Hankel matrix; Bayesian inference (MCMC) <br><br>
+    <span style="color: rgb(204, 102, 0);">Highlight</span>: Incorporating vector autoregression of temporal factor matrix into matrix/tensor factorization.
   </li>
+  <br>
+
+<p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{W},\boldsymbol{X},\boldsymbol{A}}\,\,\underbrace{\frac{1}{2}\|\mathcal{P}_{\Omega}(\boldsymbol{Y}-\boldsymbol{W}^\top\boldsymbol{X})\|_{F}^{2}}_{\text{\color{red}Matrix factorization}}+\underbrace{\frac{\gamma}{2}\sum_{t=d+m+1}^{T}\Bigl\|\underbrace{(\boldsymbol{x}_{t}-\boldsymbol{x}_{t-m})}_{\text{\color{blue}Differencing}}-\sum_{k=1}^{d}\boldsymbol{A}_{k}\underbrace{(\boldsymbol{x}_{t-k}-\boldsymbol{x}_{t-m-k})}_{\text{\color{blue}Differencing}}\Bigr\|_2^2}_{\text{\color{red}Nonstationary autoregression}}"/></p>
+
   <br>
   <li>
     <p> <b style="color: purple">Speed field reconstruction of traffic flow</b>: Generating vehicular speed fields from partially observed trajectory data. <br>
@@ -142,8 +147,13 @@ In practice, the spatiotemporal datasets are often multidimensional tensors, inc
       <span>&#8226;</span> <a href="https://doi.org/10.1109/TKDE.2023.3294440">Discovering dynamic patterns from spatiotemporal data with time-varying low-rank autoregression</a> (TKDE 2024) <br>
       <span>&#8226;</span> <a href="https://doi.org/10.1109/TPAMI.2025.3576719">Dynamic autoregressive tensor factorization for pattern discovery of spatiotemporal systems</a> (TPAMI 2025) <br>
     </p>
-    <span style="color: rgb(204, 102, 0);">Keywords</span>: Tensor decomposition; Time series autoregression; Dynamic mode decomposition; Orthogonal Procrustes problem
+    <span style="color: rgb(204, 102, 0);">Keywords</span>: Tensor decomposition; Time series autoregression; Dynamic mode decomposition; Orthogonal Procrustes problem <br><br>
+    <span style="color: rgb(204, 102, 0);">Highlight</span>: Identifying interpretable low-rank decomposition of spatiotemporal time-varying autoregression.
   </li>
+  <br>
+
+<p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{\mathcal{G}},\boldsymbol{W},\boldsymbol{V},\boldsymbol{X}}\,\,\underbrace{\sum_{t=1}^{T-1}\bigl\|\boldsymbol{y}_{t+1}-\underbrace{(\boldsymbol{\mathcal{G}}\times_{1}\boldsymbol{W}\times_{2}\boldsymbol{V}\times_{3}\boldsymbol{x}_{t}^{\top})}_{\text{\color{blue}Tensor decomposition}}\boldsymbol{y}_{t}\bigr\|_{2}^{2}}_{\text{\color{red}Time-varying autoregression}}\quad\text{s.t.}\,\,\underbrace{\boldsymbol{W}^{\top}\boldsymbol{W}=\boldsymbol{I}}_{\text{\color{blue}Orthogonality}}"/></p>
+
   <br>
   <li>
     <p> <b style="color: purple">Time series periodicity quantification</b>: Quantifying periodicity and seasonality of urban human mobility (i.e., daily/weekly regularity) and climate systems (i.e., yearly seasonality). Periodicity is key to time measurement. <br>
