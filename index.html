@@ -127,7 +127,7 @@ In practice, the spatiotemporal datasets are often multidimensional tensors, inc
   </li>
   <br>
 
-<p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{W},\boldsymbol{X},\boldsymbol{A}}\,\,\underbrace{\frac{1}{2}\|\mathcal{P}_{\Omega}(\boldsymbol{Y}-\boldsymbol{W}^\top\boldsymbol{X})\|_{F}^{2}}_{\text{\color{red}Matrix factorization}}+\underbrace{\frac{\gamma}{2}\sum_{t=d+m+1}^{T}\Bigl\|\underbrace{(\boldsymbol{x}_{t}-\boldsymbol{x}_{t-m})}_{\text{\color{blue}Differencing}}-\sum_{k=1}^{d}\boldsymbol{A}_{k}\underbrace{(\boldsymbol{x}_{t-k}-\boldsymbol{x}_{t-m-k})}_{\text{\color{blue}Differencing}}\Bigr\|_2^2}_{\text{\color{red}Nonstationary autoregression}}"/></p>
+<p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{W},\boldsymbol{X},\boldsymbol{A}}\,\,\underbrace{\frac{1}{2}\|\mathcal{P}_{\Omega}(\boldsymbol{Y}-\boldsymbol{W}^\top\boldsymbol{X})\|_{F}^{2}}_{\text{\color{red}Matrix factorization}}+\underbrace{\frac{\gamma}{2}\sum_{t=d+m+1}^{T}\Bigl\|\underbrace{(\boldsymbol{x}_{t}-\boldsymbol{x}_{t-m})}_{\text{\color{blue}Differencing}}-\sum_{k=1}^{d}\boldsymbol{A}_{k}\underbrace{(\boldsymbol{x}_{t-k}-\boldsymbol{x}_{t-m-k})}_{\text{\color{blue}Differencing}}\Bigr\|_2^2}_{\color{red}\clubsuit\,\,\text{\color{red}Nonstationary autoregression}}"/></p>
 
   <br>
   <li>
@@ -139,7 +139,7 @@ In practice, the spatiotemporal datasets are often multidimensional tensors, inc
   </li>
   <br>
 
-<p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{x}}\,\,\underbrace{\|\mathcal{C}(\boldsymbol{x})\|_{*}}_{\text{\color{red}Nuclear norm}}+\underbrace{\frac{\gamma}{2}\|\boldsymbol{\ell}\star\boldsymbol{x}\|_2^2}_{\text{\color{red}Laplacian regularization}}\quad\text{s.t.}\,\,\underbrace{\|\mathcal{P}_{\Omega}(\boldsymbol{x}-\boldsymbol{y})\|_2\leq\epsilon}_{\text{\color{blue}Partial observations in}\,\boldsymbol{y}}"/></p>
+<p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{x}}\,\,\underbrace{\|\mathcal{C}(\boldsymbol{x})\|_{*}}_{\text{\color{red}Nuclear norm}}+\underbrace{\frac{\gamma}{2}\|\boldsymbol{\ell}\star\boldsymbol{x}\|_2^2}_{\color{red}\clubsuit\,\,\text{\color{red}Laplacian regularization}}\quad\text{s.t.}\,\,\underbrace{\|\mathcal{P}_{\Omega}(\boldsymbol{x}-\boldsymbol{y})\|_2\leq\epsilon}_{\text{\color{blue}Partial observations in}\,\boldsymbol{y}}"/></p>
 
   <br>
   <li>
@@ -152,7 +152,7 @@ In practice, the spatiotemporal datasets are often multidimensional tensors, inc
   </li>
   <br>
 
-<p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{\mathcal{G}},\boldsymbol{W},\boldsymbol{V},\boldsymbol{X}}\,\,\underbrace{\sum_{t=1}^{T-1}\bigl\|\boldsymbol{y}_{t+1}-\underbrace{(\boldsymbol{\mathcal{G}}\times_{1}\boldsymbol{W}\times_{2}\boldsymbol{V}\times_{3}\boldsymbol{x}_{t}^{\top})}_{\text{\color{blue}Tensor decomposition}}\boldsymbol{y}_{t}\bigr\|_{2}^{2}}_{\text{\color{red}Time-varying autoregression}}\quad\text{s.t.}\,\,\underbrace{\boldsymbol{W}^{\top}\boldsymbol{W}=\boldsymbol{I}}_{\text{\color{blue}Orthogonality}}"/></p>
+<p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{\mathcal{G}},\boldsymbol{W},\boldsymbol{V},\boldsymbol{X}}\,\,\underbrace{\sum_{t=1}^{T-1}\bigl\|\boldsymbol{y}_{t+1}-\underbrace{(\boldsymbol{\mathcal{G}}\times_{1}\boldsymbol{W}\times_{2}\boldsymbol{V}\times_{3}\boldsymbol{x}_{t}^{\top})}_{\color{red}\clubsuit\,\,\text{\color{blue}Tensor decomposition}}\boldsymbol{y}_{t}\bigr\|_{2}^{2}}_{\text{\color{red}Time-varying autoregression}}\quad\text{s.t.}\,\,\underbrace{\boldsymbol{W}^{\top}\boldsymbol{W}=\boldsymbol{I}}_{\color{red}\clubsuit\,\,\text{\color{blue}Orthogonality}}"/></p>
 
   <br>
   <li>
@@ -166,7 +166,7 @@ In practice, the spatiotemporal datasets are often multidimensional tensors, inc
   </li>
   <br>
 
-<p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{w},\,\boldsymbol{\beta}}\,\,\underbrace{\sum_{t=d+1}^{T}\left(x_{t}-\sum_{k=1}^{d}w_{k}x_{t-k}\right)^2}_{\text{\color{red}Time series autoregression}}\quad\text{s.t.}\,\,\underbrace{-\alpha\cdot\beta_{k}\leq\,w_{k}\leq\alpha\cdot\beta_{k}}_{\text{\color{blue}Lower/Upper bounds}},\,\,\,\underbrace{\sum_{k=1}^{d}\beta_{k}\leq\tau}_{\text{\color{blue}Sparsity}},\,\,\,\underbrace{\beta_{k}\in\{0,1\}}_{\text{\color{blue}Binary variable}}"/></p>
+<p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{w},\,\boldsymbol{\beta}}\,\,\underbrace{\sum_{t=d+1}^{T}\left(x_{t}-\sum_{k=1}^{d}w_{k}x_{t-k}\right)^2}_{\text{\color{red}Time series autoregression}}\quad\text{s.t.}\,\,\underbrace{-\alpha\cdot\beta_{k}\leq\,w_{k}\leq\alpha\cdot\beta_{k}}_{\text{\color{blue}Lower/Upper bounds}},\,\,\,\underbrace{\sum_{k=1}^{d}\beta_{k}\leq\tau}_{\color{red}\clubsuit\,\,\text{\color{blue}Sparsity}},\,\,\,\underbrace{\beta_{k}\in\{0,1\}}_{\text{\color{blue}Binary variable}}"/></p>
 
   <br>
   <li>
