@@ -110,10 +110,16 @@
 <br>
 <br> -->
 
+
+<div style="border-left:6px solid #0f766e;background:#F0FDFA;padding:12px 16px;border-radius:8px;margin:8px 0;">
+<b style="color: purple">Openings</b>. I am looking for highly self-motivated Postdocs and PhD students (including visiting students) with strong mathematics and computer science background and interest in (included but not limited to) data science, machine learning, optimization, spatiotemporal modeling, urban studies, and data-driven dynamical systems.
+</div>
+
+
 <h1>About Me</h1>
 <hr> <br>
 
-I am Xinyu Chen (陈新宇), an incoming Assistant Professor at the University of Central Florida (UCF).
+I am Xinyu Chen (陈新宇), an incoming Assistant Professor at the University of Central Florida (UCF) since January 2025.
 My research focuses on developing theoretical and interpretable machine learning methods for modeling spatiotemporal data and computational social science data. The model development from a machine learning perspective can be summarized as <span style="color: purple;">tensor computations for machine learning (<b>Tensor4ML</b>)</span> and <span style="color: purple;">optimization for interpretable machine learning (<b>Opt4ML</b>)</span>. 
 In practice, the spatiotemporal datasets are often multidimensional tensors, including human mobility, trajectory data, traffic flow, fluid flow, climate/weather variable data, energy consumption, and international trade data. Our work addresses key scientific problems in computational engineering such as:
 
@@ -173,15 +179,18 @@ In practice, the spatiotemporal datasets are often multidimensional tensors, inc
   </li>
   <!-- <br> -->
 
-<!-- <p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{\mathcal{G}},\boldsymbol{W},\boldsymbol{V},\boldsymbol{X}}\,\,\underbrace{\sum_{t=1}^{T-1}\bigl\|\boldsymbol{y}_{t+1}-\underbrace{(\boldsymbol{\mathcal{G}}\times_{1}\boldsymbol{W}\times_{2}\boldsymbol{V}\times_{3}\boldsymbol{x}_{t}^{\top})}_{\color{red}\clubsuit\,\,\text{\color{blue}Tensor decomposition}}\boldsymbol{y}_{t}\bigr\|_{2}^{2}}_{\text{\color{red}Time-varying autoregression}}\quad\text{s.t.}\,\,\underbrace{\boldsymbol{W}^{\top}\boldsymbol{W}=\boldsymbol{I}}_{\color{red}\clubsuit\,\,\text{\color{blue}Orthogonality}}"/></p> -->
+<br>
+<p align="center">
+<img align="middle" src="https://spatiotemporal-data.github.io/images/opp.png" width="750" />
+</p>
+<br>
 
-<div class="equation">
+<!-- <div class="equation">
   $$\color{gray}
   \min_{\boldsymbol{\mathcal{G}},\,\boldsymbol{W},\,\boldsymbol{V},\,\boldsymbol{X}}\,\,\underbrace{\sum_{t=1}^{T-1}\bigl\|\boldsymbol{y}_{t+1}-\underbrace{(\boldsymbol{\mathcal{G}}\times_{1}\boldsymbol{W}\times_{2}\boldsymbol{V}\times_{3}\boldsymbol{x}_{t}^{\top})}_{\color{red}\clubsuit\,\,\color{blue}\text{Tensor decomposition}}\boldsymbol{y}_{t}\bigr\|_{2}^{2}}_{\color{red}\text{Time-varying autoregression}}\quad\text{s.t.}\,\,\underbrace{\boldsymbol{W}^{\top}\boldsymbol{W}=\boldsymbol{I}}_{\color{red}\clubsuit\,\,\color{blue}\text{Orthogonality}}
   $$
-</div>
+</div> -->
 
-  <!-- <br> -->
   <li>
     <p> <b style="color: purple">Time series periodicity quantification</b>: Quantifying periodicity and seasonality of urban human mobility (i.e., daily/weekly regularity) and climate systems (i.e., yearly seasonality). Periodicity is key to time measurement. <br>
       <span>&#8226;</span> <a href="https://doi.org/10.1109/TKDE.2025.3550877">Correlating time series with interpretable convolutional kernels</a> (TKDE 2025) <br>
@@ -193,15 +202,18 @@ In practice, the spatiotemporal datasets are often multidimensional tensors, inc
   </li>
   <!-- <br> -->
 
-<!-- <p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{w},\,\boldsymbol{\beta}}\,\,\underbrace{\sum_{t=d+1}^{T}\left(x_{t}-\sum_{k=1}^{d}w_{k}x_{t-k}\right)^2}_{\text{\color{red}Time series autoregression}}\quad\text{s.t.}\,\,\underbrace{-\alpha\cdot\beta_{k}\leq\,w_{k}\leq\alpha\cdot\beta_{k}}_{\text{\color{blue}Lower/Upper bounds}},\,\,\,\underbrace{\sum_{k=1}^{d}\beta_{k}\leq\tau}_{\color{red}\clubsuit\,\,\text{\color{blue}Sparsity}},\,\,\,\underbrace{\beta_{k}\in\{0,1\}}_{\text{\color{blue}Binary variable}}"/></p> -->
+<br>
+<p align="center">
+<img align="middle" src="https://spatiotemporal-data.github.io/images/autoregression_plus_code.png" width="750" />
+</p>
+<br>
 
-<div class="equation">
+<!-- <div class="equation">
   $$\color{gray}
   \min_{\boldsymbol{w},\,\boldsymbol{\beta}}\,\,\underbrace{\sum_{t=d+1}^{T}\left(x_{t}-\sum_{k=1}^{d}w_{k}x_{t-k}\right)^2}_{\color{red}\text{Time series autoregression}}\quad\text{s.t.}\,\,\underbrace{-\alpha\cdot\beta_{k}\leq\,w_{k}\leq\alpha\cdot\beta_{k}}_{\color{blue}\text{Lower and upper bounds}},\,\,\,\underbrace{\sum_{k=1}^{d}\beta_{k}\leq\tau}_{\color{red}\clubsuit\,\,\color{blue}\text{Sparsity}},\,\,\,\underbrace{\beta_{k}\in\{0,1\}}_{\color{blue}\text{Binary variable}}
   $$
-</div>
+</div> -->
 
-  <!-- <br> -->
   <li>
     <p> <b style="color: purple">Causal discovery from structured data</b> (new) <br>
     </p>
@@ -212,7 +224,7 @@ In practice, the spatiotemporal datasets are often multidimensional tensors, inc
 
 <br>
 
-Prior to joining UCF, I was a Postdoctoral Associate at <a href="https://sites.mit.edu/xinychen/">MIT</a>, working with Prof. <a href="https://mobility.mit.edu/people/jinhua-zhao">Jinhua Zhao</a> on <span style="color: purple;">data-driven machine learning in computational engineering</span>. I was involved in the <a href="https://m3s.mit.edu/">Mens, Manus, and Machina (M3S)</a> and Department of Energy (DOE) projects. 
+Prior to joining UCF, I was a Postdoctoral Associate at <a href="https://sites.mit.edu/xinychen/">MIT</a>, working with Prof. <a href="https://mobility.mit.edu/people/jinhua-zhao">Jinhua Zhao</a> on <span style="color: purple;">data-driven machine learning in computational engineering</span>. At MIT, I was involved in the <a href="https://m3s.mit.edu/">Mens, Manus, and Machina (M3S)</a> and Department of Energy (DOE) projects. 
 I completed my PhD degree at the University of Montreal in Canada, supervised by Prof. <a href="http://n.saunier.free.fr/saunier/">Nicolas Saunier</a>. My PhD research project was conducted under the support of the <a href="https://ivado.ca/en/scholarships-and-grants/phd-excellence-scholarships/">IVADO PhD Excellence Scholarship</a> ($100k) and <a href="https://www.cirrelt.ca/">CIRRELT PhD Excellence Scholarship</a> ($5k). My doctoral thesis, “Matrix and Tensor Models for Spatiotemporal Traffic Data Imputation and Forecasting,” laid the foundation for my ongoing research. 
 Until now, our research work has been published in top-tier scientific journals such as:
 
