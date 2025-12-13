@@ -1,4 +1,4 @@
-document.write("<table width=\"650\" border=\"0\" height=\"200\">");
+document.write("<table width=\"750\" border=\"0\" height=\"200\">");
 document.write("<tbody>");
 document.write("<tr>");
 document.write("<td> <img src=\"Images/xinyu25.png\" alt=\"Xinyu Chen\"");
@@ -7,9 +7,12 @@ document.write("width=\"180\" height=\"225\"> <\/td>");
 document.write("<td>");
 document.write("<h1>Xinyu Chen</h1>");
 document.write("<br>");
-document.write("Postdoctoral Associate, <a href=\"https:\/\/www.mit.edu\/\">MIT<\/a>, USA");
+document.write("Assistant Professor, <a href=\"https:\/\/www.ucf.edu\/\">University of Central Florida<\/a>, USA");
 document.write("<br>");
-document.write("Ph.D., <a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a>, Canada");
+document.write("<br>");
+document.write("Postdoc ('24-'25), <a href=\"https:\/\/www.mit.edu\/\">Massachusetts Institute of Technology<\/a>, USA");
+document.write("<br>");
+document.write("Ph.D. ('23), <a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a>, Canada");
 document.write("<br>");
 
 // document.write("<a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a></b>");
