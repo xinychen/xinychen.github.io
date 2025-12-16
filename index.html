@@ -136,9 +136,8 @@ In practice, the spatiotemporal datasets are often multidimensional tensors, inc
   </li>
   <!-- <br> -->
 
-<!-- <p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{W},\boldsymbol{X},\boldsymbol{A}}\,\,\underbrace{\frac{1}{2}\|\mathcal{P}_{\Omega}(\boldsymbol{Y}-\boldsymbol{W}^\top\boldsymbol{X})\|_{F}^{2}}_{\text{\color{red}Matrix factorization}}+\underbrace{\frac{\gamma}{2}\sum_{t=d+m+1}^{T}\Bigl\|\underbrace{(\boldsymbol{x}_{t}-\boldsymbol{x}_{t-m})}_{\text{\color{blue}Differencing}}-\sum_{k=1}^{d}\boldsymbol{A}_{k}\underbrace{(\boldsymbol{x}_{t-k}-\boldsymbol{x}_{t-m-k})}_{\text{\color{blue}Differencing}}\Bigr\|_2^2}_{\color{red}\clubsuit\,\,\text{\color{red}Nonstationary autoregression}}"/></p> -->
 
-<div class="equation">
+<!-- <div class="equation">
     $$\color{gray}
     \min_{\boldsymbol{W},\,\boldsymbol{X},\,\boldsymbol{A}}\,
     \underbrace{\frac{1}{2}\|\mathcal{P}_{\Omega}(\boldsymbol{Y}-\boldsymbol{W}^\top\boldsymbol{X})\|_{F}^{2}}_{\color{red}\text{Matrix factorization}}+
@@ -148,7 +147,7 @@ In practice, the spatiotemporal datasets are often multidimensional tensors, inc
     \underbrace{(\boldsymbol{x}_{t-k}-\boldsymbol{x}_{t-m-k})}_{\color{blue}\text{Differencing}}
     \Bigr\|_2^2}_{\color{red}\clubsuit\,\text{Nonstationary autoregression}}
     $$
-</div>
+</div> -->
 
 
   <!-- <br> -->
@@ -163,11 +162,11 @@ In practice, the spatiotemporal datasets are often multidimensional tensors, inc
 
 <!-- <p align = "center"><img align="middle" src="https://latex.codecogs.com/svg.latex?&space;\min_{\boldsymbol{x}}\,\,\underbrace{\|\mathcal{C}(\boldsymbol{x})\|_{*}}_{\text{\color{red}Nuclear norm}}+\underbrace{\frac{\gamma}{2}\|\boldsymbol{\ell}\star\boldsymbol{x}\|_2^2}_{\color{red}\clubsuit\,\,\text{\color{red}Laplacian regularization}}\quad\text{s.t.}\,\,\underbrace{\|\mathcal{P}_{\Omega}(\boldsymbol{x}-\boldsymbol{y})\|_2\leq\epsilon}_{\text{\color{blue}Partial observations in}\,\boldsymbol{y}}"/></p> -->
 
-<div class="equation">
+<!-- <div class="equation">
   $$\color{gray}
   \min_{\boldsymbol{x}}\,\,\underbrace{\|\mathcal{C}(\boldsymbol{x})\|_{*}}_{\color{red}\text{Nuclear norm}}+\underbrace{\frac{\gamma}{2}\|\boldsymbol{\ell}\star\boldsymbol{x}\|_2^2}_{\color{red}\clubsuit\,\,\text{Laplacian regularization}}\quad\text{s.t.}\,\,\underbrace{\|\mathcal{P}_{\Omega}(\boldsymbol{x}-\boldsymbol{y})\|_2\leq\epsilon}_{\color{blue}\text{Partial observations in}\,\boldsymbol{y}}
   $$
-</div>
+</div> -->
 
   <!-- <br> -->
   <li>
