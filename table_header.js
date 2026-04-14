@@ -14,9 +14,9 @@ document.write("<br>");
 // document.write("Orlando, USA");
 // document.write("<br>");
 document.write("<br>");
-document.write("Postdoctoral Associate ('24-'25), <a href=\"https:\/\/www.mit.edu\/\">MIT<\/a>, USA");
-document.write("<br>");
-document.write("Ph.D. ('23), <a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a>, Canada");
+// document.write("Postdoctoral Associate ('24-'25), <a href=\"https:\/\/www.mit.edu\/\">MIT<\/a>, USA");
+// document.write("<br>");
+document.write("Ph.D., <a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a>, Canada");
 document.write("<br>");
 
 // document.write("<a href=\"https:\/\/www.umontreal.ca\/en\">University of Montreal<\/a></b>");
